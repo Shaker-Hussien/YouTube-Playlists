@@ -56,14 +56,15 @@ Data Science Playlists road map for computer science students.
 Software Engineering Playlists road map for computer science students.
 
 #### 4.1- Java Programming Language and Object Orinted Playlists
-#### 4.2- Software Engineering Playlists
-#### 4.3- Web Development Playlists
-#### 4.4- Mobile Development Playlists
-#### 4.5- Game Development Playlists
-#### 4.6- User Interface and User Experience (UI/UX) Playlists
-#### 4.7- Continuous Delivery and DevOps Playlists
-#### 4.8- Cloud Computing Playlists
-#### 4.9- Project Management Playlists
+#### 4.2- Data Communication and Computer Networks Playlists
+#### 4.3- Software Engineering Playlists
+#### 4.4- Web Development Playlists
+#### 4.5- Mobile Development Playlists
+#### 4.6- Game Development Playlists
+#### 4.7- User Interface and User Experience (UI/UX) Playlists
+#### 4.8- Continuous Delivery and DevOps Playlists
+#### 4.9- Cloud Computing Playlists
+#### 4.10- Project Management Playlists
 
 **SKILLS YOU WILL GAIN:**<br>
 `software engineering`, `object oriented design`, `object oriented analysis`, `service oriented architecture`, `analysis of systems`, `design of systems`, `quality control`, `desktop applications`, `mobile applications`, `web applications`, `game applications`, `cross platform development`, `continuous delivery`, `devops`, `cloud computing`, `project management`, `android`, `ios`, `product development`, `google app engine (gae)`, `unity`, `parallel computing`, `parallel processing`, `shell script`, `web service`, `kubernetes`, `game design`, `virtual machine (vm)`, `virtual reality (vr)`, `php programming`, `agile user stories`, `software quality`, `microservices`, `user interface (ui)`, `jenkins`, `github`, `command line interface`, `version control systems`, `java programming`, `python programming`, `c# programming`, `swift programming`, `objective-c`, `google cloud platform`, `google compute engine`, `human computer interaction`, `reactive programming`, `distributed systems`, `software architecture`, `agile software development`, `javascript programming`, `user experience (ux)`, `responsive web design`
