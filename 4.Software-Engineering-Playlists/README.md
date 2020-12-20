@@ -8,6 +8,10 @@ Software Engineering Playlists road map for computer science students.
 
 </details>
 <details>
+	<summary>Data Communication and Computer Networks Playlists</summary>
+
+</details>
+<details>
 	<summary>Software Engineering Playlists</summary>
 
 </details>
