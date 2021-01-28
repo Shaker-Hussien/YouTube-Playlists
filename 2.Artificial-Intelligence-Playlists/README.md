@@ -28,7 +28,7 @@ Artificial Intelligence Playlists road map for computer science students, which 
 
 </details>
 <details>
-	<summary>Deep Learning Playlists</summary>
+	<summary>Neural Networks and Deep Learning Playlists</summary>
 
 </details>
 <details>

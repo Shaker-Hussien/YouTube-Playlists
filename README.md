@@ -29,7 +29,7 @@ Artificial Intelligence Playlists road map for computer science students, which 
 #### 2.4- Digital Signal Processing and Data Compression
 #### 2.5- Computer Graphics Playlists
 #### 2.6- Computer Vision and Image Processing Playlists
-#### 2.7- Deep Learning Playlists
+#### 2.7- Neural Networks and Deep Learning Playlists
 #### 2.8- Natural Language Processing Playlists
 #### 2.9- Reinforcement Learning Playlists
 
