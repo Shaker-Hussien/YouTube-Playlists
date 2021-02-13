@@ -3243,7 +3243,7 @@ Computer Science Playlists road map for computer science students, which includi
 
 </details>
 <details>
-	<summary>Compilers and Parallel Computing and Distributed Systems Playlists</summary>
+	<summary>Compiler Design and Parallel Computing and Distributed Systems Playlists</summary>
 
 <h3>-  Concepts of Programming Languages</h3>
 <table>
