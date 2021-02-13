@@ -15,7 +15,7 @@ Computer Science Playlists road map for computer science students, which includi
 #### 1.7- Data Structures and Algorithms Playlists
 #### 1.8- Operating Systems and Shell Scripting Playlists
 #### 1.9- Theory of Computations and Computer Architecture Playlists
-#### 1.10- Compilers and Parallel Computing and Distributed Systems Playlists
+#### 1.10- Compiler Design and Parallel Computing and Distributed Systems Playlists
 
 **SKILLS YOU WILL GAIN:**<br>
 `computer science`, `discrete mathematics`, `mathematics`, `probability`, `statistics`, `python programming`, `c++ programming`, `c programming`, `c++ object oriented programming (oop)`, `python object oriented programming (oop)`, `electronics`, `logic design`, `data structures`, `algorithms`, `advanced data Structures`, `advanced algorithms`, `theory of computations`, `compilers design`, `concepts of programming languages`, `computer architecture`, `computer organization`, `parallel processing`, `parallel computing`, `distributed systems`, `operating systems`, `shell scripting`
