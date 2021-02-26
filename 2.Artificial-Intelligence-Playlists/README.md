@@ -818,6 +818,314 @@ Artificial Intelligence Playlists road map for computer science students, which 
 <details>
 	<summary>Digital Signal Processing and Data Compression</summary>
 
+<h3>-  Differential Equations</h3>
+<table>
+	<thead>
+		<tr>
+			<th width="30%">Channel</th>
+			<th width="70%">Playlist</th>
+			<th>Videos</th>
+			<th>H</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td rowspan=1 align=center>Khan Academy</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL96AE8D9C68FEB902">Differential Equations</a></td>
+			<td align="center">45</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Khan Academy</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLSQl0a2vh4HBdTlkyCh7g-DRr53z1IKDl">First Order Differential Equations | Differential Equations</a></td>
+			<td align="center">29</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>3Blue1Brown</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6">Differential Equations</a></td>
+			<td align="center">5</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>MIT OpenCourseWare</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLEC88901EBADDD980">MIT 18.03 Differential Equations, Spring 2006</a></td>
+			<td align="center">33</td>
+			<td align="center">30</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>MIT OpenCourseWare</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP63oTpyxCMLKt_JmB0WtSZfG">MIT Learn Differential Equations</a></td>
+			<td align="center">68</td>
+			<td align="center">15</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>MIT OpenCourseWare</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL64BDFBDA2AF24F7E">MIT 18.03sc Differential Equations, Fall 2011</a></td>
+			<td align="center">72</td>
+			<td align="center">20</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>The Organic Chemistry Tutor</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL0o_zxa4K1BVCB8iCVCGOES9pEF6byTMT">New Trigonometry Playlist</a></td>
+			<td align="center">82</td>
+			<td align="center">20</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>The Organic Chemistry Tutor</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL0o_zxa4K1BVkRxCZubMPcCJ5Q5QwZdEM">Geometry Video Playlist</a></td>
+			<td align="center">129</td>
+			<td align="center">35</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>The Organic Chemistry Tutor</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL0o_zxa4K1BU3fUGYZpgheXmdw4OrmbUd">Trigonometry Tutorial Playlist</a></td>
+			<td align="center">36</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Tutorials Point (India) Ltd.</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLWPirh4EWFpGaNoUUViR37OxXZjnINOkv">Differential Equations</a></td>
+			<td align="center">50</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>patrickJMT</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLD4B0062CA82D73FB">Differential Equations</a></td>
+			<td align="center">34</td>
+			<td align="center">3</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Michel van Biezen</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLX2gX-ftPVXWiPVqdVFdCvLDGEtCj8iyy">Trigonometry Basics - Precalculus 6</a></td>
+			<td align="center">55</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Michel van Biezen</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLX2gX-ftPVXVC2p1psHMDdBv_lRB0V197">Differential Equations 6 - 1st Order Linear</a></td>
+			<td align="center">10</td>
+			<td align="center">1</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Michel van Biezen</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLX2gX-ftPVXVczHKMUwtJIIlItoROHFej">Trigonometry - THE Right Triangle - Precalculus 7</a></td>
+			<td align="center">27</td>
+			<td align="center">3</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Mathematics Class X</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLSYQ3WiyH7wzdiPKrzFwpwDzlcid2duXY">Real Numbers - Mathematics Class 10 CBSE</a></td>
+			<td align="center">19</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Mathematics Class X</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLSYQ3WiyH7wwJdzQKYUgzNjolXA5fzuwR">Trigonometry - Mathematics Class 10 CBSE</a></td>
+			<td align="center">34</td>
+			<td align="center">3</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Mathematics Class X</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLSYQ3WiyH7wzWkFFmvYB186cmtnn5S7lH">Arithmetic Progressions - CBSE Class 10 Mathematics</a></td>
+			<td align="center">83</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Mathematics Class X</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLSYQ3WiyH7wyAlckUve7wNlieTVuXqRD8">Triangles - Mathematics Class 10 CBSE</a></td>
+			<td align="center">64</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Mathematics Class X</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLSYQ3WiyH7wwzB4YFQZTekx_MhT8x8LPv">Quadratic Equations - Mathematics Class 10 CBSE</a></td>
+			<td align="center">33</td>
+			<td align="center">3</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Mathematics Class X</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLSYQ3WiyH7wy1hAPB0Bb_GlGddHUduFZ1">Linear Equations - Mathematics Class 10 CBSE</a></td>
+			<td align="center">51</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Mathematics Class X</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLSYQ3WiyH7wySSJaE8L-UKbTgIgh6JFMi">Areas Related to Circle - Mathematics Class 10 CBSE</a></td>
+			<td align="center">36</td>
+			<td align="center">3</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Mathematics Class X</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLSYQ3WiyH7wzA_He8OsjzOaAGwDWtym9z">Surface Areas & Volumes - Mathematics Class 10 CBSE</a></td>
+			<td align="center">35</td>
+			<td align="center">3</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Mathematics Class X</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLSYQ3WiyH7wxeI3QWpn3ph2JHpfP3fGL-">Coordinate Geometry - Mathematics Class 10 CBSE</a></td>
+			<td align="center">31</td>
+			<td align="center">3</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Mathematics Class X</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLSYQ3WiyH7wwayyPKdqOelMTgeiOf7Xxv">Circles - Chapter 10 - Class 10 Mathematics - NCERT</a></td>
+			<td align="center">17</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Mathematics Class X</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLSYQ3WiyH7wwgvz4E4Ox5_FRu9RgFNJNm">Polynomials - Mathematics Class 10 CBSE</a></td>
+			<td align="center">22</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Mathematics Class X</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLSYQ3WiyH7wxVQStT1vLusW6FlU2s-nGq">Quadratic Equations - R D Sharma Class 10 Mathematics</a></td>
+			<td align="center">16</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Mathematics Class X</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLSYQ3WiyH7wyMG9Gzim-9BvzOUpwEoMZp">Arithmetic Progressions - R D Sharma Class 10 Mathematics</a></td>
+			<td align="center">35</td>
+			<td align="center">3</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Mathematics Class X</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLSYQ3WiyH7wwKGC_5oiZww1NgYuPN85gn">Polynomials - R D Sharma Class 10 Maths</a></td>
+			<td align="center">11</td>
+			<td align="center">1</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Mathematics Class X</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLSYQ3WiyH7ww4DNtf0CCH3vmqxvt8IWXa">Real Numbers - R D Sharma Class 10 Mathematics</a></td>
+			<td align="center">9</td>
+			<td align="center">1</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Mathematics Class X</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLSYQ3WiyH7wxHUD_o2N2ZNewVahD1yoEH">Linear Equations - R D Sharma Class 10 Mathematics</a></td>
+			<td align="center">23</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Mathematics Class X</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLSYQ3WiyH7wwvjf6wTSfMOwJffyQNRGtS">Triangles - R D Sharma Class 10th Mathematics</a></td>
+			<td align="center">23</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Mathematics Class X</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLSYQ3WiyH7wz6zedKbF_6IbGkHHYibosQ">Circles - R D Sharma Class 10 Mathematics</a></td>
+			<td align="center">15</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Mathematics Class X</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLSYQ3WiyH7wx13hADshmFR6LL-VCIoA_R">Coordinate Geometry - R D Sharma Class 10 Maths</a></td>
+			<td align="center">24</td>
+			<td align="center">3</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Mathematics Class X</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLSYQ3WiyH7wyF5NcawZeq2r2Fzfgu-kmK">Areas Related to Circle - R D Sharma Class 10 Mathematics</a></td>
+			<td align="center">19</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Mathematics Class X</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLSYQ3WiyH7wwpEua_RFvVMVaknMOjLYPP">Applications of Trigonometry - R D Sharma Class 10 Maths</a></td>
+			<td align="center">7</td>
+			<td align="center">1</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Mathematics Class X</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLSYQ3WiyH7wy_Gea6LuMYADvJw4psx693">Trigonometry - R D Sharma Mathematics Class 10</a></td>
+			<td align="center">28</td>
+			<td align="center">3</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Mathematics Class X</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLSYQ3WiyH7wzgwT6h94ZjNMEzy1ek38zA">Surface Areas & Volumes - R D Sharma Class 10 Mathematics</a></td>
+			<td align="center">15</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Michel van Biezen</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLX2gX-ftPVXUU9Aq60SaPJkE_swgri-59">Trigonometry - LAW OF Sines AND Cosines - Precalculus 8</a></td>
+			<td align="center">16</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Michel van Biezen</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLX2gX-ftPVXUtjPmE-h3Ck2_2j4m_a7mV">Trigonometry - Identities Precalculus 9</a></td>
+			<td align="center">58</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Math Meeting</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLlSMUHu9g2KRe9UXf2b3fD-0ns1zmyBYi">Trigonometry</a></td>
+			<td align="center">8</td>
+			<td align="center">1</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Math Meeting</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLlSMUHu9g2KRfaqbLG5vu3EDpAsf4hnFj">Conic Sections</a></td>
+			<td align="center">4</td>
+			<td align="center">1</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Professor Leonard</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ_">Differential Equations</a></td>
+			<td align="center">39</td>
+			<td align="center">20</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Dr.Gajendra Purohit</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLU6SqdYcYsfJmqo86d12EoNNWKtAZqu8q">Differential Equation</a></td>
+			<td align="center">66</td>
+			<td align="center">20</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>The Lazy Engineer</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLee24bbe4wKTdWQY7qEkc4fjTUcfs7Zgc">Differential Equations</a></td>
+			<td align="center">42</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>MathDoctorBob</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL1BC09E09DEE0BF8E">Complex Analysis</a></td>
+			<td align="center">19</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>MathDoctorBob</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLA7FDE7518E52863A">Differential Equations</a></td>
+			<td align="center">41</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Professor Macauley</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLwV-9DG53NDz3o_g5QS3s9QWJX2wtAYPH">Differential Equations</a></td>
+			<td align="center">52</td>
+			<td align="center">30</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Jeffrey Chasnov</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLkZjai-2JcxlvaV9EUgtHj1KV7THMPw1w">Differential Equations for Engineers</a></td>
+			<td align="center">65</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>James Hamblin</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLNr8B4XHL5kHugFwIm1F064iJTJaXhdrh">Crash Course Trigonometry</a></td>
+			<td align="center">14</td>
+			<td align="center">3</td>
+		</tr>
+	</tbody>
+</table>
+
 <h3>-  Digital Signal Processing</h3>
 <table>
 	<thead>
