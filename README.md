@@ -37,7 +37,7 @@ Artificial Intelligence Playlists road map for computer science students, which 
 `artificial intelligence`, `data analysis`, `excel`, `data management`, `data processing`, `data mining`, `text mining`, `natural language processing`, `natural language toolkit (nltk)`, `time series`, `machine learning`, `advanced machine learning`, `multi-task learning`, `reinforcement learning`, `markov chain monte carlo (mcmc)`, `data vizualisation`, `advanced data vizualisation`, `matlab programming`, `python programming`, `python libraries`, `digital signals processing`, `pattern recognition`, `image processing`, `computer graphics`, `deep learning`, `speech processing`, `dimensionality reduction`, `computer vision`, `cloud computing`, `tensorflow serving`, `keras`, `pytorch`
 
 ## [3. Data-Science-Playlists](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/3.Data-Science-Playlists)
-Data Science Playlists road map for computer science students.
+Data Science Playlists road map for computer science students, which including the following main topics:
 
 #### 3.1- Data Analysis Playlists
 #### 3.2- Machine Learning and Data Mining Playlists
@@ -53,7 +53,7 @@ Data Science Playlists road map for computer science students.
 `data science`, `data analysis`, `excel`, `data cleansing`, `data management`, `data processing`, `data validation`, `data wrangling`, `data quality`, `data modeling`, `data parallelism`, `data integration`, `data storage`, `data retrieval`, `data warehousing`, `data engineering`, `data mining`, `text mining`, `natural language processing`, `natural language toolkit (nltk)`, `time series`, `machine learning`, `advanced machine learning`, `multi-task learning`, `reinforcement learning`, `markov chain monte carlo (mcmc)`, `tableau`, `data vizualisation`, `advanced data vizualisation`, `python programming`, `r programming`, `rstudio`, `scala programming`, `python libraries`, `sql`, `nosql`, `database systems`, `database design`, `business analysis`, `business intelligence`, `apache spark`, `apache hadoop`, `big data`, `presentation design`, `extraction and transformation and loading (etl)`, `web scraping`, `parallel computing`, `cloud computing`, `cloud databases`
 
 ## [4. Software-Engineering-Playlists](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/4.Software-Engineering-Playlists)
-Software Engineering Playlists road map for computer science students.
+Software Engineering Playlists road map for computer science students, which including the following main topics:
 
 #### 4.1- Java Programming Language and Object Orinted Playlists
 #### 4.2- Data Communication and Computer Networks Playlists
