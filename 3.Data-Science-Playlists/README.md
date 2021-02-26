@@ -4,7 +4,11 @@
 Data Science Playlists road map for computer science students, which including the following main topics:
 
 <details>
-	<summary>Algebra and Calculus Playlists</summary>
+	<summary>Calculus and Algebra Playlists</summary>
+	
+</details>
+<details>
+	<summary>Probability and Statistics Playlists</summary>
 	
 </details>
 <details>
