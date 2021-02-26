@@ -1,7 +1,7 @@
 <img align="right" width="80" height="50" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg">
 
 ## 4. Software-Engineering-Playlists
-Software Engineering Playlists road map for computer science students.
+Software Engineering Playlists road map for computer science students, which including the following main topics:
 
 <details>
 	<summary>Java Programming Language and Object Orinted Playlists</summary>
