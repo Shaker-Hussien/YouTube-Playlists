@@ -1941,165 +1941,461 @@ Computer Science Playlists road map for computer science students, which includi
 <table>
 	<thead>
 		<tr>
-			<th width="30%">Channel</th>			<th width="70%">Playlist</th>			<th>Videos</th>			<th>H</th>		</tr>
+			<th width="30%">Channel</th>
+			<th width="70%">Playlist</th>
+			<th>Videos</th>
+			<th>H</th>
+		</tr>
 	</thead>
 	<tbody>
 		<tr>
-			<td rowspan=1 align=center>The Organic Chemistry Tutor</td>			<td><a href="https://www.youtube.com/playlist?list=PL0o_zxa4K1BVsziIRdfv4Hl4UIqDZhXWV">Statistics</a></td>			<td align="center">69</td>			<td align="center">20</td>		</tr>
+			<td rowspan=1 align=center>The Organic Chemistry Tutor</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL0o_zxa4K1BVsziIRdfv4Hl4UIqDZhXWV">Statistics</a></td>
+			<td align="center">69</td>
+			<td align="center">20</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>Harvard University</td>			<td><a href="https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo">Statistics 110: Probability</a></td>			<td align="center">35</td>			<td align="center">30</td>		</tr>
+			<td rowspan=1 align=center>Harvard University</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo">Statistics 110: Probability</a></td>
+			<td align="center">35</td>
+			<td align="center">30</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>Michel van Biezen</td>			<td><a href="https://www.youtube.com/playlist?list=PLX2gX-ftPVXUWwTzAkOhBdhplvz0fByqV">Probability & Statistics 1 Basics</a></td>			<td align="center">63</td>			<td align="center">5</td>		</tr>
+			<td rowspan=1 align=center>Michel van Biezen</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLX2gX-ftPVXUWwTzAkOhBdhplvz0fByqV">Probability & Statistics 1 Basics</a></td>
+			<td align="center">63</td>
+			<td align="center">5</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>Mathematics Class X</td>			<td><a href="https://www.youtube.com/playlist?list=PLSYQ3WiyH7wySk3pLPZ-wF1EbzsotIjIB">Probability - CBSE Class 10 Mathematics</a></td>			<td align="center">39</td>			<td align="center">5</td>		</tr>
+			<td rowspan=1 align=center>Mathematics Class X</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLSYQ3WiyH7wySk3pLPZ-wF1EbzsotIjIB">Probability - CBSE Class 10 Mathematics</a></td>
+			<td align="center">39</td>
+			<td align="center">5</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>Mathematics Class X</td>			<td><a href="https://www.youtube.com/playlist?list=PLSYQ3WiyH7wwqEQJiDGljkd6jbRDcpBWm">Statistics - Mathematics Class 10 CBSE</a></td>			<td align="center">25</td>			<td align="center">5</td>		</tr>
+			<td rowspan=1 align=center>Mathematics Class X</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLSYQ3WiyH7wwqEQJiDGljkd6jbRDcpBWm">Statistics - Mathematics Class 10 CBSE</a></td>
+			<td align="center">25</td>
+			<td align="center">5</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>Mathematics Class X</td>			<td><a href="https://www.youtube.com/playlist?list=PLSYQ3WiyH7wwwDnLg0DwlwEuymchR4h_7">Probability - R D Sharma Class 10 Mathematics</a></td>			<td align="center">10</td>			<td align="center">1</td>		</tr>
+			<td rowspan=1 align=center>Mathematics Class X</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLSYQ3WiyH7wwwDnLg0DwlwEuymchR4h_7">Probability - R D Sharma Class 10 Mathematics</a></td>
+			<td align="center">10</td>
+			<td align="center">1</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>Mathematics Class X</td>			<td><a href="https://www.youtube.com/playlist?list=PLSYQ3WiyH7wwXFai0RvWzzpOemJM8PtEc">Statistics - R D Sharma, Mathematics Class 10</a></td>			<td align="center">3</td>			<td align="center">1</td>		</tr>
+			<td rowspan=1 align=center>Mathematics Class X</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLSYQ3WiyH7wwXFai0RvWzzpOemJM8PtEc">Statistics - R D Sharma, Mathematics Class 10</a></td>
+			<td align="center">3</td>
+			<td align="center">1</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>Professor Leonard</td>			<td><a href="https://www.youtube.com/playlist?list=PL5102DFDC6790F3D0">Statistics (Full Length Videos)</a></td>			<td align="center">28</td>			<td align="center">15</td>		</tr>
+			<td rowspan=1 align=center>Professor Leonard</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL5102DFDC6790F3D0">Statistics (Full Length Videos)</a></td>
+			<td align="center">28</td>
+			<td align="center">15</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>Professor Leonard</td>			<td><a href="https://www.youtube.com/playlist?list=PL5901C68C96DFCAD1">Statistics Playlist 1</a></td>			<td align="center">149</td>			<td align="center">40</td>		</tr>
+			<td rowspan=1 align=center>Professor Leonard</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL5901C68C96DFCAD1">Statistics Playlist 1</a></td>
+			<td align="center">149</td>
+			<td align="center">40</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>Math Meeting</td>			<td><a href="https://www.youtube.com/playlist?list=PLlSMUHu9g2KQ3SAofPJTr-AYYBQi5SWVT">Statistics</a></td>			<td align="center">7</td>			<td align="center">5</td>		</tr>
+			<td rowspan=1 align=center>Math Meeting</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLlSMUHu9g2KQ3SAofPJTr-AYYBQi5SWVT">Statistics</a></td>
+			<td align="center">7</td>
+			<td align="center">5</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>StatQuest with Josh Starmer</td>			<td><a href="https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9">Statistics Fundamentals</a></td>			<td align="center">43</td>			<td align="center">10</td>		</tr>
+			<td rowspan=1 align=center>StatQuest with Josh Starmer</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9">Statistics Fundamentals</a></td>
+			<td align="center">43</td>
+			<td align="center">10</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>Advanced Placement</td>			<td><a href="https://www.youtube.com/playlist?list=PLoGgviqq4845u-QDW3bikMhC4uQsuYDpy">AP Statistics</a></td>			<td align="center">33</td>			<td align="center">25</td>		</tr>
+			<td rowspan=1 align=center>Advanced Placement</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLoGgviqq4845u-QDW3bikMhC4uQsuYDpy">AP Statistics</a></td>
+			<td align="center">33</td>
+			<td align="center">25</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>MarinStatsLectures-R Programming & Statistics</td>			<td><a href="https://www.youtube.com/playlist?list=PLqzoL9-eJTNBZDG8jaNuhap1C9q6VHyVa">Statistics Course for Data Science | Data Analytics</a></td>			<td align="center">50</td>			<td align="center">10</td>		</tr>
+			<td rowspan=1 align=center>MarinStatsLectures-R Programming & Statistics</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLqzoL9-eJTNBZDG8jaNuhap1C9q6VHyVa">Statistics Course for Data Science | Data Analytics</a></td>
+			<td align="center">50</td>
+			<td align="center">10</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>MarinStatsLectures-R Programming & Statistics</td>			<td><a href="https://www.youtube.com/playlist?list=PLqzoL9-eJTNAB5st3mtP_bmXafGSH1Dtz">Statistics Course for Beginners: Introduction to Statistics</a></td>			<td align="center">51</td>			<td align="center">10</td>		</tr>
+			<td rowspan=1 align=center>MarinStatsLectures-R Programming & Statistics</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLqzoL9-eJTNAB5st3mtP_bmXafGSH1Dtz">Statistics Course for Beginners: Introduction to Statistics</a></td>
+			<td align="center">51</td>
+			<td align="center">10</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>MarinStatsLectures-R Programming & Statistics</td>			<td><a href="https://www.youtube.com/playlist?list=PLqzoL9-eJTND5VuIjTDtcKilOrxRWc-i5">Statistical Inference Concept | Statistics for Beginners</a></td>			<td align="center">15</td>			<td align="center">5</td>		</tr>
+			<td rowspan=1 align=center>MarinStatsLectures-R Programming & Statistics</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLqzoL9-eJTND5VuIjTDtcKilOrxRWc-i5">Statistical Inference Concept | Statistics for Beginners</a></td>
+			<td align="center">15</td>
+			<td align="center">5</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>Simple Learning Pro</td>			<td><a href="https://www.youtube.com/playlist?list=PL0KQuRyPJoe6KjlUM6iNYgt8d0DwI-IGR">Statistics 1</a></td>			<td align="center">25</td>			<td align="center">5</td>		</tr>
+			<td rowspan=1 align=center>Simple Learning Pro</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL0KQuRyPJoe6KjlUM6iNYgt8d0DwI-IGR">Statistics 1</a></td>
+			<td align="center">25</td>
+			<td align="center">5</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>Khan Academy Probability and Statistics</td>			<td><a href="https://www.youtube.com/playlist?list=PLU5aQXLWR3_xDN0M2ZeZ_zHIia0e42_3O">Random variables and probability distributions</a></td>			<td align="center">19</td>			<td align="center">5</td>		</tr>
+			<td rowspan=1 align=center>Khan Academy Probability and Statistics</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLU5aQXLWR3_xDN0M2ZeZ_zHIia0e42_3O">Random variables and probability distributions</a></td>
+			<td align="center">19</td>
+			<td align="center">5</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>Khan Academy Probability and Statistics</td>			<td><a href="https://www.youtube.com/playlist?list=PLU5aQXLWR3_wDJi9fDQar3GQVfZD4SlbX">Probability and combinatorics</a></td>			<td align="center">27</td>			<td align="center">5</td>		</tr>
+			<td rowspan=1 align=center>Khan Academy Probability and Statistics</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLU5aQXLWR3_wDJi9fDQar3GQVfZD4SlbX">Probability and combinatorics</a></td>
+			<td align="center">27</td>
+			<td align="center">5</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>Khan Academy Probability and Statistics</td>			<td><a href="https://www.youtube.com/playlist?list=PLU5aQXLWR3_yYS0ZYRA-5g5YSSYLNZ6Mc">Descriptive statistics</a></td>			<td align="center">24</td>			<td align="center">5</td>		</tr>
+			<td rowspan=1 align=center>Khan Academy Probability and Statistics</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLU5aQXLWR3_yYS0ZYRA-5g5YSSYLNZ6Mc">Descriptive statistics</a></td>
+			<td align="center">24</td>
+			<td align="center">5</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>Khan Academy Probability and Statistics</td>			<td><a href="https://www.youtube.com/playlist?list=PLU5aQXLWR3_za0hcdZH2b28MkIXSyHOE2">Inferential statistics</a></td>			<td align="center">39</td>			<td align="center">10</td>		</tr>
+			<td rowspan=1 align=center>Khan Academy Probability and Statistics</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLU5aQXLWR3_za0hcdZH2b28MkIXSyHOE2">Inferential statistics</a></td>
+			<td align="center">39</td>
+			<td align="center">10</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>Khan Academy Probability and Statistics</td>			<td><a href="https://www.youtube.com/playlist?list=PLU5aQXLWR3_wuWOWMA-8aPLhp4p3sZdK2">Regression</a></td>			<td align="center">18</td>			<td align="center">5</td>		</tr>
+			<td rowspan=1 align=center>Khan Academy Probability and Statistics</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLU5aQXLWR3_wuWOWMA-8aPLhp4p3sZdK2">Regression</a></td>
+			<td align="center">18</td>
+			<td align="center">5</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>Khan Academy Probability and Statistics</td>			<td><a href="https://www.youtube.com/playlist?list=PLU5aQXLWR3_zDq9QnnC6QWY0C-cFtSr4C">Statistical studies</a></td>			<td align="center">12</td>			<td align="center">5</td>		</tr>
+			<td rowspan=1 align=center>Khan Academy Probability and Statistics</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLU5aQXLWR3_zDq9QnnC6QWY0C-cFtSr4C">Statistical studies</a></td>
+			<td align="center">12</td>
+			<td align="center">5</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>MrArnoldsMaths</td>			<td><a href="https://www.youtube.com/playlist?list=PLdFZZXxW0z8sG0jmmaIIGXrXXcqi7PjLm">A Level Statistics 1</a></td>			<td align="center">23</td>			<td align="center">5</td>		</tr>
+			<td rowspan=1 align=center>MrArnoldsMaths</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLdFZZXxW0z8sG0jmmaIIGXrXXcqi7PjLm">A Level Statistics 1</a></td>
+			<td align="center">23</td>
+			<td align="center">5</td>
+		</tr>
 	</tbody>
-	</table>
+</table>
 
 <h3>-  Probability</h3>
 <table>
 	<thead>
 		<tr>
-			<th width="30%">Channel</th>			<th width="70%">Playlist</th>			<th>Videos</th>			<th>H</th>		</tr>
+			<th width="30%">Channel</th>
+			<th width="70%">Playlist</th>
+			<th>Videos</th>
+			<th>H</th>
+		</tr>
 	</thead>
 	<tbody>
 		<tr>
-			<td rowspan=1 align=center>Khan Academy</td>			<td><a href="https://www.youtube.com/playlist?list=PL1328115D3D8A2566">Statistics</a></td>			<td align="center">67</td>			<td align="center">15</td>		</tr>
+			<td rowspan=1 align=center>Khan Academy</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL1328115D3D8A2566">Statistics</a></td>
+			<td align="center">67</td>
+			<td align="center">15</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>Khan Academy</td>			<td><a href="https://www.youtube.com/playlist?list=PLC58778F28211FA19">Probability</a></td>			<td align="center">41</td>			<td align="center">10</td>		</tr>
+			<td rowspan=1 align=center>Khan Academy</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLC58778F28211FA19">Probability</a></td>
+			<td align="center">41</td>
+			<td align="center">10</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>Khan Academy</td>			<td><a href="https://www.youtube.com/playlist?list=PLU5aQXLWR3_x1bjE2rbvRn8sse81AUYZk">Independent and dependent events</a></td>			<td align="center">29</td>			<td align="center">5</td>		</tr>
+			<td rowspan=1 align=center>Khan Academy</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLU5aQXLWR3_x1bjE2rbvRn8sse81AUYZk">Independent and dependent events</a></td>
+			<td align="center">29</td>
+			<td align="center">5</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>Khan Academy</td>			<td><a href="https://www.youtube.com/playlist?list=PLSQl0a2vh4HDl0hgK8nIBgBjLji5Eu9ar">Inferential statistics</a></td>			<td align="center">39</td>			<td align="center">10</td>		</tr>
+			<td rowspan=1 align=center>Khan Academy</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLSQl0a2vh4HDl0hgK8nIBgBjLji5Eu9ar">Inferential statistics</a></td>
+			<td align="center">39</td>
+			<td align="center">10</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>Khan Academy</td>			<td><a href="https://www.youtube.com/playlist?list=PLSQl0a2vh4HDGASZE0AAY5rMpTXBUs1hs">Exploring Data</a></td>			<td align="center">15</td>			<td align="center">5</td>		</tr>
+			<td rowspan=1 align=center>Khan Academy</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLSQl0a2vh4HDGASZE0AAY5rMpTXBUs1hs">Exploring Data</a></td>
+			<td align="center">15</td>
+			<td align="center">5</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>Khan Academy</td>			<td><a href="https://www.youtube.com/playlist?list=PLSQl0a2vh4HAe6mF7lbA6GA-5R4-IPAmM">Summarizing quantitative data | AP Statistics</a></td>			<td align="center">21</td>			<td align="center">5</td>		</tr>
+			<td rowspan=1 align=center>Khan Academy</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLSQl0a2vh4HAe6mF7lbA6GA-5R4-IPAmM">Summarizing quantitative data | AP Statistics</a></td>
+			<td align="center">21</td>
+			<td align="center">5</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>Khan Academy</td>			<td><a href="https://www.youtube.com/playlist?list=PLSQl0a2vh4HCdm-4ReSAtuQvpplkwIuT2">High school statistics | High School Math</a></td>			<td align="center">62</td>			<td align="center">5</td>		</tr>
+			<td rowspan=1 align=center>Khan Academy</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLSQl0a2vh4HCdm-4ReSAtuQvpplkwIuT2">High school statistics | High School Math</a></td>
+			<td align="center">62</td>
+			<td align="center">5</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>MIT OpenCourseWare</td>			<td><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6">MIT RES.6-012 Introduction to Probability, Spring 2018</a></td>			<td align="center">266</td>			<td align="center">25</td>		</tr>
+			<td rowspan=1 align=center>MIT OpenCourseWare</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6">MIT RES.6-012 Introduction to Probability, Spring 2018</a></td>
+			<td align="center">266</td>
+			<td align="center">25</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>MIT OpenCourseWare</td>			<td><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8">6.041 Probabilistic Systems Analysis and Applied Probability</a></td>			<td align="center">25</td>			<td align="center">20</td>		</tr>
+			<td rowspan=1 align=center>MIT OpenCourseWare</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8">6.041 Probabilistic Systems Analysis and Applied Probability</a></td>
+			<td align="center">25</td>
+			<td align="center">20</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>MIT OpenCourseWare</td>			<td><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe">MIT 6.041SC Probabilistic Systems Analysis and Applied Probability, Fall 2013</a></td>			<td align="center">76</td>			<td align="center">35</td>		</tr>
+			<td rowspan=1 align=center>MIT OpenCourseWare</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe">MIT 6.041SC Probabilistic Systems Analysis and Applied Probability, Fall 2013</a></td>
+			<td align="center">76</td>
+			<td align="center">35</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>MIT OpenCourseWare</td>			<td><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0">MIT 18.650 Statistics for Applications, Fall 2016</a></td>			<td align="center">22</td>			<td align="center">25</td>		</tr>
+			<td rowspan=1 align=center>MIT OpenCourseWare</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0">MIT 18.650 Statistics for Applications, Fall 2016</a></td>
+			<td align="center">22</td>
+			<td align="center">25</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>Brandon Foltz</td>			<td><a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-KqNeLQVhw8yv9MI5dd0ky_">Statistics PL01 - Data and Statistics</a></td>			<td align="center">1</td>			<td align="center">1</td>		</tr>
+			<td rowspan=1 align=center>Brandon Foltz</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-KqNeLQVhw8yv9MI5dd0ky_">Statistics PL01 - Data and Statistics</a></td>
+			<td align="center">1</td>
+			<td align="center">1</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>Brandon Foltz</td>			<td><a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-K82r1fgL-DO1xKg133PXKh">Statistics PL02 - Descriptive Statistics I</a></td>			<td align="center">10</td>			<td align="center">5</td>		</tr>
+			<td rowspan=1 align=center>Brandon Foltz</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-K82r1fgL-DO1xKg133PXKh">Statistics PL02 - Descriptive Statistics I</a></td>
+			<td align="center">10</td>
+			<td align="center">5</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>Brandon Foltz</td>			<td><a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-JMH5fGDWhtniyET88Mexcw">Statistics PL03 - Descriptive Statistics II</a></td>			<td align="center">8</td>			<td align="center">5</td>		</tr>
+			<td rowspan=1 align=center>Brandon Foltz</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-JMH5fGDWhtniyET88Mexcw">Statistics PL03 - Descriptive Statistics II</a></td>
+			<td align="center">8</td>
+			<td align="center">5</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>Brandon Foltz</td>			<td><a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-I9m4otjYGCQL_1m0Edm0LA">Statistics PL04 - Introduction to Probability</a></td>			<td align="center">14</td>			<td align="center">5</td>		</tr>
+			<td rowspan=1 align=center>Brandon Foltz</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-I9m4otjYGCQL_1m0Edm0LA">Statistics PL04 - Introduction to Probability</a></td>
+			<td align="center">14</td>
+			<td align="center">5</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>Brandon Foltz</td>			<td><a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-LWd2IOW1wveszJXy_aHytX">Statistics PL05 - Discrete Probability Distributions</a></td>			<td align="center">13</td>			<td align="center">5</td>		</tr>
+			<td rowspan=1 align=center>Brandon Foltz</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-LWd2IOW1wveszJXy_aHytX">Statistics PL05 - Discrete Probability Distributions</a></td>
+			<td align="center">13</td>
+			<td align="center">5</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>Brandon Foltz</td>			<td><a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-KdqFkNrED9w8j9dEMMLj7e">Statistics PL06 - Continuous Probability Distributions</a></td>			<td align="center">5</td>			<td align="center">5</td>		</tr>
+			<td rowspan=1 align=center>Brandon Foltz</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-KdqFkNrED9w8j9dEMMLj7e">Statistics PL06 - Continuous Probability Distributions</a></td>
+			<td align="center">5</td>
+			<td align="center">5</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>Brandon Foltz</td>			<td><a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-KdXH-P5N4hMFoyYjbaRiR0">Statistics PL07 - Sampling and Sampling Distributions</a></td>			<td align="center">6</td>			<td align="center">5</td>		</tr>
+			<td rowspan=1 align=center>Brandon Foltz</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-KdXH-P5N4hMFoyYjbaRiR0">Statistics PL07 - Sampling and Sampling Distributions</a></td>
+			<td align="center">6</td>
+			<td align="center">5</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>Brandon Foltz</td>			<td><a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-KkhLBDGW3Jp3ThPAEQvMfk">Statistics PL08 - Confidence Interval Estimation</a></td>			<td align="center">4</td>			<td align="center">5</td>		</tr>
+			<td rowspan=1 align=center>Brandon Foltz</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-KkhLBDGW3Jp3ThPAEQvMfk">Statistics PL08 - Confidence Interval Estimation</a></td>
+			<td align="center">4</td>
+			<td align="center">5</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>Brandon Foltz</td>			<td><a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-IZRHcZcOy12jp7ywuRbE7l">Statistics PL09 - Hypothesis Testing</a></td>			<td align="center">14</td>			<td align="center">10</td>		</tr>
+			<td rowspan=1 align=center>Brandon Foltz</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-IZRHcZcOy12jp7ywuRbE7l">Statistics PL09 - Hypothesis Testing</a></td>
+			<td align="center">14</td>
+			<td align="center">10</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>Brandon Foltz</td>			<td><a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-LrjxQ60pxZaimkaKKs0zGF">Statistics PL10 - Z-tests, T-tests for Two Populations</a></td>			<td align="center">3</td>			<td align="center">5</td>		</tr>
+			<td rowspan=1 align=center>Brandon Foltz</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-LrjxQ60pxZaimkaKKs0zGF">Statistics PL10 - Z-tests, T-tests for Two Populations</a></td>
+			<td align="center">3</td>
+			<td align="center">5</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>Brandon Foltz</td>			<td><a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-JLAfWM-EB2cTtLRhDWiZwD">Statistics PL11 - Inferences about Population Variances</a></td>			<td align="center">5</td>			<td align="center">5</td>		</tr>
+			<td rowspan=1 align=center>Brandon Foltz</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-JLAfWM-EB2cTtLRhDWiZwD">Statistics PL11 - Inferences about Population Variances</a></td>
+			<td align="center">5</td>
+			<td align="center">5</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>Brandon Foltz</td>			<td><a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-J1zwbVOInWdlKBG3AVmXxJ">Statistics PL12 - Goodness of Fit and Independence Tests</a></td>			<td align="center">3</td>			<td align="center">5</td>		</tr>
+			<td rowspan=1 align=center>Brandon Foltz</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-J1zwbVOInWdlKBG3AVmXxJ">Statistics PL12 - Goodness of Fit and Independence Tests</a></td>
+			<td align="center">3</td>
+			<td align="center">5</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>Brandon Foltz</td>			<td><a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-KA-BLkL391X__r0kU4_hm5">Statistics PL13 - ANOVA (ANalysis Of VAriance)</a></td>			<td align="center">10</td>			<td align="center">5</td>		</tr>
+			<td rowspan=1 align=center>Brandon Foltz</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-KA-BLkL391X__r0kU4_hm5">Statistics PL13 - ANOVA (ANalysis Of VAriance)</a></td>
+			<td align="center">10</td>
+			<td align="center">5</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>Brandon Foltz</td>			<td><a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-LoKUpV0fSY8BGKIMIdmfCi">Statistics PL14 - Simple Linear Regression</a></td>			<td align="center">12</td>			<td align="center">5</td>		</tr>
+			<td rowspan=1 align=center>Brandon Foltz</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-LoKUpV0fSY8BGKIMIdmfCi">Statistics PL14 - Simple Linear Regression</a></td>
+			<td align="center">12</td>
+			<td align="center">5</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>Brandon Foltz</td>			<td><a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-IqjoU8IiF0Yu1WtxNq_4z-">Statistics PL15 - Multiple Linear Regression</a></td>			<td align="center">7</td>			<td align="center">5</td>		</tr>
+			<td rowspan=1 align=center>Brandon Foltz</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-IqjoU8IiF0Yu1WtxNq_4z-">Statistics PL15 - Multiple Linear Regression</a></td>
+			<td align="center">7</td>
+			<td align="center">5</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>Brandon Foltz</td>			<td><a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-JmBQ9XoFD4rs-b3hkcX7Uu">Statistics PL16 - Logistic Regression</a></td>			<td align="center">6</td>			<td align="center">5</td>		</tr>
+			<td rowspan=1 align=center>Brandon Foltz</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-JmBQ9XoFD4rs-b3hkcX7Uu">Statistics PL16 - Logistic Regression</a></td>
+			<td align="center">6</td>
+			<td align="center">5</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>Brandon Foltz</td>			<td><a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-LnuBJ7TayqusxOERwpTvAv">Statistics PL17 - ANCOVA (ANalysis of COVAriance)</a></td>			<td align="center">3</td>			<td align="center">1</td>		</tr>
+			<td rowspan=1 align=center>Brandon Foltz</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-LnuBJ7TayqusxOERwpTvAv">Statistics PL17 - ANCOVA (ANalysis of COVAriance)</a></td>
+			<td align="center">3</td>
+			<td align="center">1</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>Brandon Foltz</td>			<td><a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-KE0M1r5cjbC_7Q_dVlKVq4">Statistics PL18 - Nonlinear Regression</a></td>			<td align="center">4</td>			<td align="center">5</td>		</tr>
+			<td rowspan=1 align=center>Brandon Foltz</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-KE0M1r5cjbC_7Q_dVlKVq4">Statistics PL18 - Nonlinear Regression</a></td>
+			<td align="center">4</td>
+			<td align="center">5</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>Brandon Foltz</td>			<td><a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-IV0Yf8AyeMgmNkpFBxBJlh">Statistics PL19 - Nonparametric Methods</a></td>			<td align="center">9</td>			<td align="center">5</td>		</tr>
+			<td rowspan=1 align=center>Brandon Foltz</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-IV0Yf8AyeMgmNkpFBxBJlh">Statistics PL19 - Nonparametric Methods</a></td>
+			<td align="center">9</td>
+			<td align="center">5</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>Brandon Foltz</td>			<td><a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-KwtuGE4kKONQHILQiL31qZ">Statistics PL20 - Model Building and the General Linear Model (GLM)</a></td>			<td align="center">7</td>			<td align="center">5</td>		</tr>
+			<td rowspan=1 align=center>Brandon Foltz</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-KwtuGE4kKONQHILQiL31qZ">Statistics PL20 - Model Building and the General Linear Model (GLM)</a></td>
+			<td align="center">7</td>
+			<td align="center">5</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>Brandon Foltz</td>			<td><a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-KxMqY8wJ0KoY3ujxf0C856">Finite Mathematics</a></td>			<td align="center">31</td>			<td align="center">10</td>		</tr>
+			<td rowspan=1 align=center>Brandon Foltz</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLIeGtxpvyG-KxMqY8wJ0KoY3ujxf0C856">Finite Mathematics</a></td>
+			<td align="center">31</td>
+			<td align="center">10</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>UCI Open</td>			<td><a href="https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7l-ML8sMNFHx0CY7jyudZq2">Introduction to Probability and Statistics 131A</a></td>			<td align="center">17</td>			<td align="center">25</td>		</tr>
+			<td rowspan=1 align=center>UCI Open</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7l-ML8sMNFHx0CY7jyudZq2">Introduction to Probability and Statistics 131A</a></td>
+			<td align="center">17</td>
+			<td align="center">25</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>UCI Open</td>			<td><a href="https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7k-j-86QUC2_0nEu0QOP-Wy">Introduction to Probability and Statistics 131B</a></td>			<td align="center">16</td>			<td align="center">25</td>		</tr>
+			<td rowspan=1 align=center>UCI Open</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7k-j-86QUC2_0nEu0QOP-Wy">Introduction to Probability and Statistics 131B</a></td>
+			<td align="center">16</td>
+			<td align="center">25</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>UCI Open</td>			<td><a href="https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7n6XnvxxsWfxFtYf0Xj479J">Math 131A: Introduction to Probability and Statistics</a></td>			<td align="center">17</td>			<td align="center">25</td>		</tr>
+			<td rowspan=1 align=center>UCI Open</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7n6XnvxxsWfxFtYf0Xj479J">Math 131A: Introduction to Probability and Statistics</a></td>
+			<td align="center">17</td>
+			<td align="center">25</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>UCI Open</td>			<td><a href="https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7kcLcp0qHUDOp6f5JKmA8Aq">Math 131B: Introduction to Probability and Statistics</a></td>			<td align="center">16</td>			<td align="center">25</td>		</tr>
+			<td rowspan=1 align=center>UCI Open</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7kcLcp0qHUDOp6f5JKmA8Aq">Math 131B: Introduction to Probability and Statistics</a></td>
+			<td align="center">16</td>
+			<td align="center">25</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>jbstatistics</td>			<td><a href="https://www.youtube.com/playlist?list=PLvxOuBpazmsNIHP5cz37oOPZx0JKyNszN">Discrete Probability Distributions</a></td>			<td align="center">13</td>			<td align="center">5</td>		</tr>
+			<td rowspan=1 align=center>jbstatistics</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLvxOuBpazmsNIHP5cz37oOPZx0JKyNszN">Discrete Probability Distributions</a></td>
+			<td align="center">13</td>
+			<td align="center">5</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>jbstatistics</td>			<td><a href="https://www.youtube.com/playlist?list=PLvxOuBpazmsNo893xlpXNfMzVpRBjDH67">Hypothesis Testing</a></td>			<td align="center">16</td>			<td align="center">5</td>		</tr>
+			<td rowspan=1 align=center>jbstatistics</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLvxOuBpazmsNo893xlpXNfMzVpRBjDH67">Hypothesis Testing</a></td>
+			<td align="center">16</td>
+			<td align="center">5</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>jbstatistics</td>			<td><a href="https://www.youtube.com/playlist?list=PLvxOuBpazmsPDZGwqhhjE3KkLWnTD34R0">Continuous Probability Distributions</a></td>			<td align="center">10</td>			<td align="center">5</td>		</tr>
+			<td rowspan=1 align=center>jbstatistics</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLvxOuBpazmsPDZGwqhhjE3KkLWnTD34R0">Continuous Probability Distributions</a></td>
+			<td align="center">10</td>
+			<td align="center">5</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>jbstatistics</td>			<td><a href="https://www.youtube.com/playlist?list=PLvxOuBpazmsMdPBRxBTvwLv5Lhuk0tuXh">Confidence Intervals for a Population Mean</a></td>			<td align="center">10</td>			<td align="center">5</td>		</tr>
+			<td rowspan=1 align=center>jbstatistics</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLvxOuBpazmsMdPBRxBTvwLv5Lhuk0tuXh">Confidence Intervals for a Population Mean</a></td>
+			<td align="center">10</td>
+			<td align="center">5</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>jbstatistics</td>			<td><a href="https://www.youtube.com/playlist?list=PLvxOuBpazmsND0vmkP1ECjTloiVz-pXla">Simple Linear Regression</a></td>			<td align="center">12</td>			<td align="center">5</td>		</tr>
+			<td rowspan=1 align=center>jbstatistics</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLvxOuBpazmsND0vmkP1ECjTloiVz-pXla">Simple Linear Regression</a></td>
+			<td align="center">12</td>
+			<td align="center">5</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>jbstatistics</td>			<td><a href="https://www.youtube.com/playlist?list=PLvxOuBpazmsOGOursPoofaHyz_1NpxbhA">Basics of Probability</a></td>			<td align="center">7</td>			<td align="center">5</td>		</tr>
+			<td rowspan=1 align=center>jbstatistics</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLvxOuBpazmsOGOursPoofaHyz_1NpxbhA">Basics of Probability</a></td>
+			<td align="center">7</td>
+			<td align="center">5</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>jbstatistics</td>			<td><a href="https://www.youtube.com/playlist?list=PLvxOuBpazmsNqPdvhkF_l55tHdDNW3z-7">One-Way ANOVA (Analysis of Variance)</a></td>			<td align="center">5</td>			<td align="center">1</td>		</tr>
+			<td rowspan=1 align=center>jbstatistics</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLvxOuBpazmsNqPdvhkF_l55tHdDNW3z-7">One-Way ANOVA (Analysis of Variance)</a></td>
+			<td align="center">5</td>
+			<td align="center">1</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>jbstatistics</td>			<td><a href="https://www.youtube.com/playlist?list=PLvxOuBpazmsN0jpds3sD1vHmAlw5XFKx-">Inference for Two Population Means</a></td>			<td align="center">8</td>			<td align="center">5</td>		</tr>
+			<td rowspan=1 align=center>jbstatistics</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLvxOuBpazmsN0jpds3sD1vHmAlw5XFKx-">Inference for Two Population Means</a></td>
+			<td align="center">8</td>
+			<td align="center">5</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>jbstatistics</td>			<td><a href="https://www.youtube.com/playlist?list=PLvxOuBpazmsP7UN00cNZX64N1o_8635ds">Sampling Distributions</a></td>			<td align="center">3</td>			<td align="center">1</td>		</tr>
+			<td rowspan=1 align=center>jbstatistics</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLvxOuBpazmsP7UN00cNZX64N1o_8635ds">Sampling Distributions</a></td>
+			<td align="center">3</td>
+			<td align="center">1</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>jbstatistics</td>			<td><a href="https://www.youtube.com/playlist?list=PLvxOuBpazmsMNIgaarUNmvs70sAjiPeVM">Inference for Variances</a></td>			<td align="center">10</td>			<td align="center">5</td>		</tr>
+			<td rowspan=1 align=center>jbstatistics</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLvxOuBpazmsMNIgaarUNmvs70sAjiPeVM">Inference for Variances</a></td>
+			<td align="center">10</td>
+			<td align="center">5</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>jbstatistics</td>			<td><a href="https://www.youtube.com/playlist?list=PLvxOuBpazmsOXoys_s9qkbspk_BlOtWcW">Inference for Proportions</a></td>			<td align="center">6</td>			<td align="center">5</td>		</tr>
+			<td rowspan=1 align=center>jbstatistics</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLvxOuBpazmsOXoys_s9qkbspk_BlOtWcW">Inference for Proportions</a></td>
+			<td align="center">6</td>
+			<td align="center">5</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>jbstatistics</td>			<td><a href="https://www.youtube.com/playlist?list=PLvxOuBpazmsN5B0UrQaASorbf2v2KqGSt">Chi-square Tests for Count Data</a></td>			<td align="center">4</td>			<td align="center">1</td>		</tr>
+			<td rowspan=1 align=center>jbstatistics</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLvxOuBpazmsN5B0UrQaASorbf2v2KqGSt">Chi-square Tests for Count Data</a></td>
+			<td align="center">4</td>
+			<td align="center">1</td>
+		</tr>
 		<tr>
-			<td rowspan=1 align=center>jbstatistics</td>			<td><a href="https://www.youtube.com/playlist?list=PLvxOuBpazmsPuOFtb3lgcFHyXBqP1--B6">Using a Standard Normal Table</a></td>			<td align="center">5</td>			<td align="center">1</td>		</tr>
+			<td rowspan=1 align=center>jbstatistics</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLvxOuBpazmsPuOFtb3lgcFHyXBqP1--B6">Using a Standard Normal Table</a></td>
+			<td align="center">5</td>
+			<td align="center">1</td>
+		</tr>
 	</tbody>
-	</table>
+</table>
 
 </details>
 <details>
