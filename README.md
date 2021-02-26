@@ -23,16 +23,17 @@ Computer Science Playlists road map for computer science students, which includi
 ## [2. Artificial-Intelligence-Playlists](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/2.Artificial-Intelligence-Playlists)
 Artificial Intelligence Playlists road map for computer science students, which including the following main topics:
 
-#### 2.1- Algebra and Calculus Playlists
-#### 2.2- Data Analysis Playlists
-#### 2.3- Machine Learning and Data Mining Playlists
-#### 2.4- Artificial Intelligence Playlists
-#### 2.5- Digital Signal Processing and Data Compression
-#### 2.6- Computer Graphics Playlists
-#### 2.7- Computer Vision and Image Processing Playlists
-#### 2.8- Neural Networks and Deep Learning Playlists
-#### 2.9- Natural Language Processing Playlists
-#### 2.10- Reinforcement Learning Playlists
+#### 2.1- Calculus and Algebra Playlists
+#### 2.2- Probability and Statistics Playlists
+#### 2.3- Data Analysis Playlists
+#### 2.4- Machine Learning and Data Mining Playlists
+#### 2.5- Artificial Intelligence Playlists
+#### 2.6- Digital Signal Processing and Data Compression
+#### 2.7- Computer Graphics Playlists
+#### 2.8- Computer Vision and Image Processing Playlists
+#### 2.9- Neural Networks and Deep Learning Playlists
+#### 2.10- Natural Language Processing Playlists
+#### 2.11- Reinforcement Learning Playlists
 
 **SKILLS YOU WILL GAIN:**<br>
 `artificial intelligence`, `data analysis`, `excel`, `data management`, `data processing`, `data mining`, `text mining`, `natural language processing`, `natural language toolkit (nltk)`, `time series`, `machine learning`, `advanced machine learning`, `multi-task learning`, `reinforcement learning`, `markov chain monte carlo (mcmc)`, `data vizualisation`, `advanced data vizualisation`, `matlab programming`, `python programming`, `python libraries`, `digital signals processing`, `pattern recognition`, `image processing`, `computer graphics`, `deep learning`, `speech processing`, `dimensionality reduction`, `computer vision`, `cloud computing`, `tensorflow serving`, `keras`, `pytorch`
@@ -40,16 +41,17 @@ Artificial Intelligence Playlists road map for computer science students, which 
 ## [3. Data-Science-Playlists](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/3.Data-Science-Playlists)
 Data Science Playlists road map for computer science students, which including the following main topics:
 
-#### 3.1- Algebra and Calculus Playlists
-#### 3.2- Data Analysis Playlists
-#### 3.3- Machine Learning and Data Mining Playlists
-#### 3.4- Business Intelligence Playlists
-#### 3.5- Data Science Playlists
-#### 3.6- Database Management Systems and Data Warehousing Playlists
-#### 3.7- Files Organization and Data Storage Playlists
-#### 3.8- Database Design Playlists
-#### 3.9- Big Data Playlists
-#### 3.10- Data Engineering Playlists
+#### 3.1- Calculus and Algebra Playlists
+#### 3.2- Probability and Statistics Playlists
+#### 3.3- Data Analysis Playlists
+#### 3.4- Machine Learning and Data Mining Playlists
+#### 3.5- Business Intelligence Playlists
+#### 3.6- Data Science Playlists
+#### 3.7- Database Management Systems and Data Warehousing Playlists
+#### 3.8- Files Organization and Data Storage Playlists
+#### 3.9- Database Design Playlists
+#### 3.10- Big Data Playlists
+#### 3.11- Data Engineering Playlists
 
 **SKILLS YOU WILL GAIN:**<br>
 `data science`, `data analysis`, `excel`, `data cleansing`, `data management`, `data processing`, `data validation`, `data wrangling`, `data quality`, `data modeling`, `data parallelism`, `data integration`, `data storage`, `data retrieval`, `data warehousing`, `data engineering`, `data mining`, `text mining`, `natural language processing`, `natural language toolkit (nltk)`, `time series`, `machine learning`, `advanced machine learning`, `multi-task learning`, `reinforcement learning`, `markov chain monte carlo (mcmc)`, `tableau`, `data vizualisation`, `advanced data vizualisation`, `python programming`, `r programming`, `rstudio`, `scala programming`, `python libraries`, `sql`, `nosql`, `database systems`, `database design`, `business analysis`, `business intelligence`, `apache spark`, `apache hadoop`, `big data`, `presentation design`, `extraction and transformation and loading (etl)`, `web scraping`, `parallel computing`, `cloud computing`, `cloud databases`
