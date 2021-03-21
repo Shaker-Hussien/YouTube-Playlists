@@ -41,7 +41,7 @@ Artificial Intelligence Playlists road map for computer science students, which 
 ## [Data-Science-Playlists](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Data-Science-Playlists)
 Data Science Playlists road map for computer science students, which including the following main topics:
 
-#### `1..` Calculus and Algebra Playlists
+#### `1.` Calculus and Algebra Playlists
 #### `2.` Probability and Statistics Playlists
 #### `3.` Data Analysis Playlists
 #### `4.` Machine Learning and Data Mining Playlists
