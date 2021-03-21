@@ -3,7 +3,7 @@
 # YouTube-Playlists
 YouTube playlists road map for computer science students.
 
-## [Computer-Science-Playlists](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/1.Computer-Science-Playlists)
+## [Computer-Science-Playlists](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Computer-Science-Playlists)
 Computer Science Playlists road map for computer science students, which including the following main topics:
 
 #### `1.` Introduction to Computer Science Playlists
@@ -20,7 +20,7 @@ Computer Science Playlists road map for computer science students, which includi
 **SKILLS YOU WILL GAIN:**<br>
 `computer science`, `discrete mathematics`, `mathematics`, `probability`, `statistics`, `python programming`, `c++ programming`, `c programming`, `c++ object oriented programming (oop)`, `python object oriented programming (oop)`, `electronics`, `logic design`, `data structures`, `algorithms`, `advanced data Structures`, `advanced algorithms`, `theory of computations`, `compilers design`, `concepts of programming languages`, `computer architecture`, `computer organization`, `parallel processing`, `parallel computing`, `distributed systems`, `operating systems`, `shell scripting`
 
-## [Artificial-Intelligence-Playlists](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/2.Artificial-Intelligence-Playlists)
+## [Artificial-Intelligence-Playlists](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Artificial-Intelligence-Playlists)
 Artificial Intelligence Playlists road map for computer science students, which including the following main topics:
 
 #### `1.` Calculus and Algebra Playlists
@@ -38,7 +38,7 @@ Artificial Intelligence Playlists road map for computer science students, which 
 **SKILLS YOU WILL GAIN:**<br>
 `artificial intelligence`, `data analysis`, `excel`, `data management`, `data processing`, `data mining`, `text mining`, `natural language processing`, `natural language toolkit (nltk)`, `time series`, `machine learning`, `advanced machine learning`, `multi-task learning`, `reinforcement learning`, `markov chain monte carlo (mcmc)`, `data vizualisation`, `advanced data vizualisation`, `matlab programming`, `python programming`, `python libraries`, `digital signals processing`, `pattern recognition`, `image processing`, `computer graphics`, `deep learning`, `speech processing`, `dimensionality reduction`, `computer vision`, `cloud computing`, `tensorflow serving`, `keras`, `pytorch`
 
-## [Data-Science-Playlists](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/3.Data-Science-Playlists)
+## [Data-Science-Playlists](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Data-Science-Playlists)
 Data Science Playlists road map for computer science students, which including the following main topics:
 
 #### `1..` Calculus and Algebra Playlists
@@ -56,7 +56,7 @@ Data Science Playlists road map for computer science students, which including t
 **SKILLS YOU WILL GAIN:**<br>
 `data science`, `data analysis`, `excel`, `data cleansing`, `data management`, `data processing`, `data validation`, `data wrangling`, `data quality`, `data modeling`, `data parallelism`, `data integration`, `data storage`, `data retrieval`, `data warehousing`, `data engineering`, `data mining`, `text mining`, `natural language processing`, `natural language toolkit (nltk)`, `time series`, `machine learning`, `advanced machine learning`, `multi-task learning`, `reinforcement learning`, `markov chain monte carlo (mcmc)`, `tableau`, `data vizualisation`, `advanced data vizualisation`, `python programming`, `r programming`, `rstudio`, `scala programming`, `python libraries`, `sql`, `nosql`, `database systems`, `database design`, `business analysis`, `business intelligence`, `apache spark`, `apache hadoop`, `big data`, `presentation design`, `extraction and transformation and loading (etl)`, `web scraping`, `parallel computing`, `cloud computing`, `cloud databases`
 
-## [Software-Engineering-Playlists](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/4.Software-Engineering-Playlists)
+## [Software-Engineering-Playlists](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Software-Engineering-Playlists)
 Software Engineering Playlists road map for computer science students, which including the following main topics:
 
 #### `1.` Java Programming Language and Object Orinted Playlists
