@@ -26,9 +26,9 @@ Artificial Intelligence Playlists road map for computer science students, which 
 #### `1.` Calculus and Algebra Playlists
 #### `2.` Probability and Statistics Playlists
 #### `3.` Data Analysis Playlists
-#### `4.` Machine Learning and Data Mining Playlists
-#### `5.` Artificial Intelligence Playlists
-#### `6.` Digital Signal Processing and Data Compression
+#### `4.` Artificial Intelligence Playlists
+#### `5.` Digital Signal Processing and Data Compression
+#### `6.` Machine Learning and Data Mining Playlists
 #### `7.` Computer Graphics Playlists
 #### `8.` Computer Vision and Image Processing Playlists
 #### `9.` Neural Networks and Deep Learning Playlists
