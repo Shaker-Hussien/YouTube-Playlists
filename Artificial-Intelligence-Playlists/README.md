@@ -1091,186 +1091,7 @@ Artificial Intelligence Playlists road map for computer science students, which 
 	<summary>Data Analysis Playlists</summary>
 
 </details>
-<details>
-	<summary>Machine Learning and Data Mining Playlists</summary>
 
-<h3>-  Data Mining</h3>
-<table>
-	<thead>
-		<tr>
-			<th width="30%">Channel</th>
-			<th width="70%">Playlist</th>
-			<th>Videos</th>
-			<th>H</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td rowspan=1 align=center>5 Minutes Engineering</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLYwpaL_SFmcChP0xiW3KK9elNuhfCLVVi">Data Mining and Warehouse</a></td>
-			<td align="center">50</td>
-			<td align="center">5</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>Nevon Projects</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLAY30bf7ZN4wI9SN4YMowKsU4geowi7w-">Top Data Mining Projects Compilation 2020</a></td>
-			<td align="center">48</td>
-			<td align="center">5</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>Data Science Dojo</td>
-			<td><a href="https://www.youtube.com/playlist?list=PL8eNk_zTBST-gN6Y5E-5FZdARXjglYpyT">Introduction to Data Mining</a></td>
-			<td align="center">24</td>
-			<td align="center">3</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>Oresoft LWC</td>
-			<td><a href="https://www.youtube.com/playlist?list=PL0174E49C0E0DD5C8">Web Data Mining</a></td>
-			<td align="center">126</td>
-			<td align="center">35</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>Jalayer Academy</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLjPbBibKHH18I0mDb_H4uP3egypHIsvMn">Machine Learning, Data Mining, Statistics with R</a></td>
-			<td align="center">50</td>
-			<td align="center">10</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>Unknown</td>
-			<td><a href="https://www.youtube.com/playlist?list=PL77F08DCD8CE6C62E">Stanford Data Mining Lectures</a></td>
-			<td align="center">22</td>
-			<td align="center">30</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>Noureddin Sadawi</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLea0WJq13cnCS4LLMeUuZmTxqsqlhwUoe">Data Mining Algorithms</a></td>
-			<td align="center">36</td>
-			<td align="center">5</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>Programology</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLR2FqYUVaFJrz76RLg-kM2uFV0gcnSO4S">data mining tutorial for beginners in hindi and urdu</a></td>
-			<td align="center">21</td>
-			<td align="center">5</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>Programology</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLR2FqYUVaFJr-XPjTp7oe5Zxqe1tZSC3t">data mining and data warehousing lecture in hindi urdu tamil telugu</a></td>
-			<td align="center">21</td>
-			<td align="center">5</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>WekaMOOC</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLm4W7_iX_v4NqPUjceOGd-OKNVO4c_cPD">Data Mining with Weka</a></td>
-			<td align="center">29</td>
-			<td align="center">5</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>WekaMOOC</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLm4W7_iX_v4OMSgc8xowC2h70s-unJKCp">More Data Mining with Weka</a></td>
-			<td align="center">31</td>
-			<td align="center">5</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>WekaMOOC</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLm4W7_iX_v4Msh-7lDOpSFWHRYU_6H5Kx">Advanced Data Mining with Weka</a></td>
-			<td align="center">31</td>
-			<td align="center">5</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>Pirple</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLgTkNlNsy9gXoMB2-YO_Tuu94mctmu2h7">Data Mining With Python</a></td>
-			<td align="center">7</td>
-			<td align="center">1</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>SAS Users</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLVV6eZFA22Qzg_1teSQ77qRRhprXg9EiU">Getting Started with Data Mining</a></td>
-			<td align="center">18</td>
-			<td align="center">5</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>Data Science Show</td>
-			<td><a href="https://www.youtube.com/playlist?list=PL_iP0SGUzx9Sal8pTa67sozY2sVLywbEo">Data Mining in Excel</a></td>
-			<td align="center">13</td>
-			<td align="center">5</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>Virtual University</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLFX_EwFvKKWPMueAR4gIdXK-5B0doNkKX">CS725 - Data Mining</a></td>
-			<td align="center">220</td>
-			<td align="center">30</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>Mike Gelbart</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLWmXHcz_53Q02ZLeAxigki1JZFfCO6M-b">CPSC 340: Machine Learning and Data Mining (2018)</a></td>
-			<td align="center">33</td>
-			<td align="center">25</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>Binod Suman Academy</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLIRnO_sdVuEdK8pWx75SvflvLKcbI1uRE">Data Mining</a></td>
-			<td align="center">7</td>
-			<td align="center">5</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>UofU Data Science</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLbuogVdPnkCpXfb43Wvc7s5fXWzedwTPB">Data Mining (Spring 2016)</a></td>
-			<td align="center">25</td>
-			<td align="center">35</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>UofU Data Science</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLbuogVdPnkCrEf65zrd3J1UG3LT6TcDlt">Data Mining (Spring 2020)</a></td>
-			<td align="center">24</td>
-			<td align="center">35</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>UofU Data Science</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLbuogVdPnkCqBUORlcuE9qqps-Fy73AHb">Data Mining (Spring 2019)</a></td>
-			<td align="center">24</td>
-			<td align="center">35</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>The Academician</td>
-			<td><a href="https://www.youtube.com/playlist?list=PL_yJxLdTxJhofLg__t8QSinjpYuugRbqa">Data Mining</a></td>
-			<td align="center">55</td>
-			<td align="center">10</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>Ed Technology</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLy6JR9IR8VKPClVLjAoSNyIXsK0u0HuGc">Data Mining Lectures</a></td>
-			<td align="center">29</td>
-			<td align="center">3</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>Sunny Mac Channel</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLGb3TeeSFTeNdwIaxKDYF2syKHteLMruu">DATA MINING - COMPLETE SYLLABUS</a></td>
-			<td align="center">17</td>
-			<td align="center">5</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>Computer Science and Engineering</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLVWgae806flmtZUjvGTwpK9FWJKFJq-Vy">Data Mining</a></td>
-			<td align="center">22</td>
-			<td align="center">5</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>Open ETH</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLY-OA_xnxFwRHZO6L6yT253VPgrZazQs6">Data Mining: Learning From Large Datasets (ETH Zurich, fall 2017)</a></td>
-			<td align="center">12</td>
-			<td align="center">20</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>Dothang Truong</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLRDHFVPFwalDq5C7n31bmwe3Apa_dMZ22">Data Mining</a></td>
-			<td align="center">27</td>
-			<td align="center">15</td>
-		</tr>
-	</tbody>
-</table>
-
-</details>
 <details>
 	<summary>Artificial Intelligence Playlists</summary>
 
@@ -1872,6 +1693,186 @@ Artificial Intelligence Playlists road map for computer science students, which 
 			<td><a href="https://www.youtube.com/playlist?list=PL6QnpHKwdPYiDOUHecdZc1WPTnJ-dd0cT">Multirate Signal Processing</a></td>
 			<td align="center">151</td>
 			<td align="center">10</td>
+		</tr>
+	</tbody>
+</table>
+</details>
+
+<details>
+	<summary>Machine Learning and Data Mining Playlists</summary>
+
+<h3>-  Data Mining</h3>
+<table>
+	<thead>
+		<tr>
+			<th width="30%">Channel</th>
+			<th width="70%">Playlist</th>
+			<th>Videos</th>
+			<th>H</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td rowspan=1 align=center>5 Minutes Engineering</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLYwpaL_SFmcChP0xiW3KK9elNuhfCLVVi">Data Mining and Warehouse</a></td>
+			<td align="center">50</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Nevon Projects</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLAY30bf7ZN4wI9SN4YMowKsU4geowi7w-">Top Data Mining Projects Compilation 2020</a></td>
+			<td align="center">48</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Data Science Dojo</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL8eNk_zTBST-gN6Y5E-5FZdARXjglYpyT">Introduction to Data Mining</a></td>
+			<td align="center">24</td>
+			<td align="center">3</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Oresoft LWC</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL0174E49C0E0DD5C8">Web Data Mining</a></td>
+			<td align="center">126</td>
+			<td align="center">35</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Jalayer Academy</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLjPbBibKHH18I0mDb_H4uP3egypHIsvMn">Machine Learning, Data Mining, Statistics with R</a></td>
+			<td align="center">50</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Unknown</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL77F08DCD8CE6C62E">Stanford Data Mining Lectures</a></td>
+			<td align="center">22</td>
+			<td align="center">30</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Noureddin Sadawi</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLea0WJq13cnCS4LLMeUuZmTxqsqlhwUoe">Data Mining Algorithms</a></td>
+			<td align="center">36</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Programology</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLR2FqYUVaFJrz76RLg-kM2uFV0gcnSO4S">data mining tutorial for beginners in hindi and urdu</a></td>
+			<td align="center">21</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Programology</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLR2FqYUVaFJr-XPjTp7oe5Zxqe1tZSC3t">data mining and data warehousing lecture in hindi urdu tamil telugu</a></td>
+			<td align="center">21</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>WekaMOOC</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLm4W7_iX_v4NqPUjceOGd-OKNVO4c_cPD">Data Mining with Weka</a></td>
+			<td align="center">29</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>WekaMOOC</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLm4W7_iX_v4OMSgc8xowC2h70s-unJKCp">More Data Mining with Weka</a></td>
+			<td align="center">31</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>WekaMOOC</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLm4W7_iX_v4Msh-7lDOpSFWHRYU_6H5Kx">Advanced Data Mining with Weka</a></td>
+			<td align="center">31</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Pirple</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLgTkNlNsy9gXoMB2-YO_Tuu94mctmu2h7">Data Mining With Python</a></td>
+			<td align="center">7</td>
+			<td align="center">1</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>SAS Users</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLVV6eZFA22Qzg_1teSQ77qRRhprXg9EiU">Getting Started with Data Mining</a></td>
+			<td align="center">18</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Data Science Show</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL_iP0SGUzx9Sal8pTa67sozY2sVLywbEo">Data Mining in Excel</a></td>
+			<td align="center">13</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Virtual University</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLFX_EwFvKKWPMueAR4gIdXK-5B0doNkKX">CS725 - Data Mining</a></td>
+			<td align="center">220</td>
+			<td align="center">30</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Mike Gelbart</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLWmXHcz_53Q02ZLeAxigki1JZFfCO6M-b">CPSC 340: Machine Learning and Data Mining (2018)</a></td>
+			<td align="center">33</td>
+			<td align="center">25</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Binod Suman Academy</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLIRnO_sdVuEdK8pWx75SvflvLKcbI1uRE">Data Mining</a></td>
+			<td align="center">7</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>UofU Data Science</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLbuogVdPnkCpXfb43Wvc7s5fXWzedwTPB">Data Mining (Spring 2016)</a></td>
+			<td align="center">25</td>
+			<td align="center">35</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>UofU Data Science</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLbuogVdPnkCrEf65zrd3J1UG3LT6TcDlt">Data Mining (Spring 2020)</a></td>
+			<td align="center">24</td>
+			<td align="center">35</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>UofU Data Science</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLbuogVdPnkCqBUORlcuE9qqps-Fy73AHb">Data Mining (Spring 2019)</a></td>
+			<td align="center">24</td>
+			<td align="center">35</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>The Academician</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL_yJxLdTxJhofLg__t8QSinjpYuugRbqa">Data Mining</a></td>
+			<td align="center">55</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Ed Technology</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLy6JR9IR8VKPClVLjAoSNyIXsK0u0HuGc">Data Mining Lectures</a></td>
+			<td align="center">29</td>
+			<td align="center">3</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Sunny Mac Channel</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLGb3TeeSFTeNdwIaxKDYF2syKHteLMruu">DATA MINING - COMPLETE SYLLABUS</a></td>
+			<td align="center">17</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Computer Science and Engineering</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLVWgae806flmtZUjvGTwpK9FWJKFJq-Vy">Data Mining</a></td>
+			<td align="center">22</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Open ETH</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLY-OA_xnxFwRHZO6L6yT253VPgrZazQs6">Data Mining: Learning From Large Datasets (ETH Zurich, fall 2017)</a></td>
+			<td align="center">12</td>
+			<td align="center">20</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Dothang Truong</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLRDHFVPFwalDq5C7n31bmwe3Apa_dMZ22">Data Mining</a></td>
+			<td align="center">27</td>
+			<td align="center">15</td>
 		</tr>
 	</tbody>
 </table>
