@@ -1701,6 +1701,1049 @@ Artificial Intelligence Playlists road map for computer science students, which 
 <details>
 	<summary>Machine Learning and Data Mining Playlists</summary>
 
+
+<h3>-  Python Libraries for Machine Learning</h3>
+<table>
+	<thead>
+		<tr>
+			<th width="30%">Channel</th>
+			<th width="70%">Playlist</th>
+			<th>Videos</th>
+			<th>H</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td rowspan=1 align=center>ProgrammingKnowledge</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLS1QulWo1RIa7ha9SewcZlsTQVwL7n7oq">Scikit-Learn Python Tutorial | Machine Learning with Scikit-learn</a></td>
+			<td align="center">18</td>
+			<td align="center">3</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>sentdex</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLQVvvaa0QuDd0flgGphKCej-9jp-QdzZ3">Scikit-learn Machine Learning with Python and SKlearn</a></td>
+			<td align="center">28</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Data School</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A">Machine learning in Python with scikit-learn</a></td>
+			<td align="center">11</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Data School</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL5-da3qGB5ID7YYAqireYEew2mWVvgmj6">scikit-learn tips</a></td>
+			<td align="center">12</td>
+			<td align="center">1</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Packt Video</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLTgRMOcmRb3MQnbKVkKIkYnQTlhBEXWSJ">Hands-on Scikit-learn for Machine Learning tutorial</a></td>
+			<td align="center">8</td>
+			<td align="center">3</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Cristi Vlad</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLonlF40eS6nynU5ayxghbz2QpDsUAyCVF">Machine Learning with Scikit-Learn</a></td>
+			<td align="center">12</td>
+			<td align="center">1</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Gilbert Tanner</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLoY9f-5DCBln7ZsL4n9tFgGS0BXz5gXXR">Sklearn Tutorials</a></td>
+			<td align="center">14</td>
+			<td align="center">5</td>
+		</tr>
+	</tbody>
+	</table>
+
+<h3>-  Machine Learning</h3>
+<table>
+	<thead>
+		<tr>
+			<th width="30%">Channel</th>
+			<th width="70%">Playlist</th>
+			<th>Videos</th>
+			<th>H</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td rowspan=1 align=center>MIT OpenCourseWare</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP60B0PQXVQyGNdCyCTDU1Q5j">MIT 6.S897 Machine Learning for Healthcare, Spring 2019</a></td>
+			<td align="center">25</td>
+			<td align="center">30</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>MIT OpenCourseWare</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k">MIT 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning, Spring 2018</a></td>
+			<td align="center">36</td>
+			<td align="center">30</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Google Developers</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal">Machine Learning Recipes with Josh Gordon</a></td>
+			<td align="center">10</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Google Developers</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLOU2XLYxmsII9mzQ-Xxug4l2o04JBrkLV">Machine Learning Foundations</a></td>
+			<td align="center">10</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Google Developers</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLOU2XLYxmsII9mzQ-Xxug4l2o04JBrkLV">Machine Learning Foundations</a></td>
+			<td align="center">10</td>
+			<td align="center">3</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>ProgrammingKnowledge</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLS1QulWo1RIZOeYXrZdlaWww1UFPvNKVa">Commonly Used Machine Learning Algorithms</a></td>
+			<td align="center">6</td>
+			<td align="center">1</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>ProgrammingKnowledge</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLS1QulWo1RIYR9HuO9Upa053OTKljPeYe">Neural Network Tutorial for Beginners</a></td>
+			<td align="center">6</td>
+			<td align="center">1</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>ProgrammingKnowledge</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLS1QulWo1RIZ3tcrdZodjuXTDTIIXH8EW">Matplotlib Tutorial for Beginners (Python) | Learn Data Visualization with Python and Matplotlib</a></td>
+			<td align="center">18</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>ProgrammingKnowledge</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLS1QulWo1RIZD1F_BLxB1P63dUljQfVhH">Machine Learning Tutorial</a></td>
+			<td align="center">27</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>sentdex</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v">Machine Learning with Python</a></td>
+			<td align="center">72</td>
+			<td align="center">15</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>sentdex</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3">Neural Networks from Scratch in Python</a></td>
+			<td align="center">7</td>
+			<td align="center">3</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>sentdex</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLQVvvaa0QuDe6ZBtkCNWNUbdaBo2vA4RO">Machine Learning for Forex and Stock analysis and algorithmic trading</a></td>
+			<td align="center">19</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>StatQuest with Josh Starmer</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF">Machine Learning</a></td>
+			<td align="center">80</td>
+			<td align="center">20</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>StatQuest with Josh Starmer</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1">Neural Networks</a></td>
+			<td align="center">13</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>StatQuest with Josh Starmer</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLblh5JKOoLULU0irPgs1SnKO6wqVjKUsQ">XGBoost</a></td>
+			<td align="center">5</td>
+			<td align="center">3</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>StatQuest with Josh Starmer</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLblh5JKOoLUL3IJ4-yor0HzkqDQ3JmJkc">Support Vector Machines</a></td>
+			<td align="center">4</td>
+			<td align="center">3</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>StatQuest with Josh Starmer</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLblh5JKOoLUJjeXUvUE0maghNuY2_5fY6">Gradient Boost</a></td>
+			<td align="center">4</td>
+			<td align="center">3</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>StatQuest with Josh Starmer</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLblh5JKOoLUKAtDViTvRGFpphEc24M-QH">CART - Classification And Regression Trees</a></td>
+			<td align="center">5</td>
+			<td align="center">3</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>StatQuest with Josh Starmer</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLblh5JKOoLUIE96dI3U7oxHaCAbZgfhHk">Random Forests</a></td>
+			<td align="center">3</td>
+			<td align="center">1</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>StatQuest with Josh Starmer</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe">Logistic Regression</a></td>
+			<td align="center">7</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>StatQuest with Josh Starmer</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLblh5JKOoLUJJpBNfk8_YadPwDTO2SCbx">Statistics and Machine Learning in R</a></td>
+			<td align="center">9</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>StatQuest with Josh Starmer</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLblh5JKOoLUJo2Q6xK4tZElbIvAACEykp">High Throughput Sequencing</a></td>
+			<td align="center">28</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>StatQuest with Josh Starmer</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9">Statistics Fundamentals</a></td>
+			<td align="center">43</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>StatQuest with Josh Starmer</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLblh5JKOoLUIzaEkCLIUxQFjPIlapw8nU">Linear Regression and Linear Models</a></td>
+			<td align="center">10</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>StatQuest with Josh Starmer</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLblh5JKOoLUIcdlgu78MnlATeyx4cEVeR">StatQuest</a></td>
+			<td align="center">137</td>
+			<td align="center">25</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>DeepMind</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs">Advanced Deep Learning & Reinforcement Learning</a></td>
+			<td align="center">18</td>
+			<td align="center">30</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>DeepMind</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLqYmG7hTraZCkftCvihsG2eCTH2OyGScc">Deep Learning Course | DeepMind & UCL</a></td>
+			<td align="center">8</td>
+			<td align="center">15</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>DeepMind</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF">DeepMind x UCL | Deep Learning Lecture Series 2020</a></td>
+			<td align="center">12</td>
+			<td align="center">20</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>DeepMind</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLqYmG7hTraZDbUxknZhkFYIS685TUW5Wc">DeepMind Research</a></td>
+			<td align="center">7</td>
+			<td align="center">1</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>codebasics</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw">Machine Learning Tutorial Python | Machine Learning For Beginners</a></td>
+			<td align="center">78</td>
+			<td align="center">30</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>codebasics</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7clOTtwsp94PcHbzqpAdg">Data Science Project | Machine Learning Project | Real Estate Price Prediction</a></td>
+			<td align="center">8</td>
+			<td align="center">3</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>codebasics</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLeo1K3hjS3uvaRHZLl-jLovIjBP14QTXc">Data Science Project | Machine Learning Project | Sports Celebrity Image Classification</a></td>
+			<td align="center">8</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>codebasics</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLeo1K3hjS3utcb9nKtanhcn8jd2E0Hp9b">Data Analysis Projects</a></td>
+			<td align="center">16</td>
+			<td align="center">3</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>codebasics</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO">Deep Learning With Tensorflow 2.0, Keras and Python</a></td>
+			<td align="center">40</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>stanfordonline</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU">Stanford CS229: Machine Learning | Autumn 2018</a></td>
+			<td align="center">20</td>
+			<td align="center">25</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Artificial Intelligence - All in One</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN">Machine Learning — Andrew Ng, Stanford University [FULL COURSE]</a></td>
+			<td align="center">112</td>
+			<td align="center">20</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Artificial Intelligence - All in One</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLLssT5z_DsK_gyrQ_biidwvPYCRNGI3iv">Neural Networks for Machine Learning — Geoffrey Hinton, UofT [FULL COURSE]</a></td>
+			<td align="center">78</td>
+			<td align="center">15</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>caltech</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLD63A284B7615313A">Machine Learning Course - CS 156</a></td>
+			<td align="center">18</td>
+			<td align="center">25</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Augmented Startups</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL_Nji0JOuXg2udXfS6nhK3CkIYLDtHNLp">The Fun and Easy Guide to Machine Learning - Tutorials</a></td>
+			<td align="center">16</td>
+			<td align="center">3</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Cognitive Class</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL-XeOa5hMEYz7xMckkUL8w2EKzM3TDrON">Machine Learning</a></td>
+			<td align="center">23</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Cognitive Class</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL-XeOa5hMEYxNzHM7YLRjIwE1k3VQpqEh">Deep Learning with Tensorflow</a></td>
+			<td align="center">28</td>
+			<td align="center">3</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Cognitive Class</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL-XeOa5hMEYxN1Kzrqlac6YQ8ULPJoexl">Data Science Hands on with Open Source Tools</a></td>
+			<td align="center">29</td>
+			<td align="center">3</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Cognitive Class</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL-XeOa5hMEYzF11WYSfDnaiSJIFY5zttH">Data Science Methodology</a></td>
+			<td align="center">14</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Cognitive Class</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL-XeOa5hMEYz5U0wAu1EvOuG-ndOEoaQr">Data Science 101</a></td>
+			<td align="center">33</td>
+			<td align="center">3</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Cognitive Class</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL-XeOa5hMEYxprJm93wFRM49E5V0ffsfY">Statistics 101</a></td>
+			<td align="center">30</td>
+			<td align="center">3</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Enthought</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n">SciPy 2020 General Track</a></td>
+			<td align="center">8</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Enthought</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLYx7XA2nY5GfY4WWJjG5cQZDc7DIUmn6Z">SciPy 2020 High Performance Python</a></td>
+			<td align="center">11</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Enthought</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLYx7XA2nY5GejOB1lsvriFeMytD1-VS1B">SciPy 2020 Machine Learning</a></td>
+			<td align="center">11</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Enthought</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLYx7XA2nY5GcTCOoxtlqebZExBfwXj58o">SciPy 2020 Materials Science</a></td>
+			<td align="center">6</td>
+			<td align="center">3</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Enthought</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLYx7XA2nY5GezZTawXyl76LqVf3qbn-5E">SciPy 2020 Earth, Ocean Geo, & Atmospheric Science</a></td>
+			<td align="center">10</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Enthought</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLYx7XA2nY5GdNCo46AUhZ8RwlshVmgZTa">SciPy 2020 Biology & Bioinformatics</a></td>
+			<td align="center">9</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Enthought</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLYx7XA2nY5GdcCuhzg1G7Zt4apRnIn-u9">SciPy 2020 Astronomy & Astrophysics</a></td>
+			<td align="center">6</td>
+			<td align="center">3</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Enthought</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLYx7XA2nY5GcLZEDDplyXj6wyJ53R9vgq">SciPy 2020 Keynotes and Plenary Sessions</a></td>
+			<td align="center">5</td>
+			<td align="center">3</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Enthought</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLYx7XA2nY5GcTy5ll_BB1O4mJb9X2x2ho">SciPy 2020 Lightning Talks, BoFs and Maintainers Track</a></td>
+			<td align="center">7</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Enthought</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLYx7XA2nY5Gde-6QO98KUJ9iL_WW4rgYf">SciPy 2020 Tutorials</a></td>
+			<td align="center">10</td>
+			<td align="center">35</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Enthought</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLYx7XA2nY5Geu7wUH_6RhQM1KJkAxZllc">SciPy Japan 2019: Scientific Computing with Python Conference</a></td>
+			<td align="center">22</td>
+			<td align="center">20</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Enthought</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLYx7XA2nY5Gd-tNhm79CNMe_qvi35PgUR">SciPy 2018: Scientific Computing with Python Conference</a></td>
+			<td align="center">97</td>
+			<td align="center">50</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Enthought</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLYx7XA2nY5GfdAFycPLBdUDOUtdQIVoMf">SciPy 2017: Scientific Computing with Python Conference</a></td>
+			<td align="center">91</td>
+			<td align="center">45</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Enthought</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLYx7XA2nY5Gf37zYZMw6OqGFRPjB1jCy6">SciPy 2016: Scientific Computing with Python Conference</a></td>
+			<td align="center">92</td>
+			<td align="center">65</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Enthought</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu">SciPy 2015: Scientific Computing with Python Conference</a></td>
+			<td align="center">116</td>
+			<td align="center">40</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Enthought</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLYx7XA2nY5GeQCCugyvtnHMVLdhYlrRxH">EuroSciPy 2015: European Scientific Computing with Python Conference</a></td>
+			<td align="center">32</td>
+			<td align="center">20</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Enthought</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLYx7XA2nY5GfuhCvStxgbynFNrxr3VFog">SciPy 2014: Scientific Computing with Python</a></td>
+			<td align="center">121</td>
+			<td align="center">80</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Enthought</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLYx7XA2nY5GfavGAILg08spnrR7QWLimi">EuroSciPy 2014</a></td>
+			<td align="center">22</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Enthought</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLYx7XA2nY5GeTWcUQTbXVdllyp-Ie3r-y">SciPy 2013: Scientific Computing with Python</a></td>
+			<td align="center">32</td>
+			<td align="center">20</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Kaggle</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLqFaTIg4myu9-T-fat2zjC5HmTpSybNfa">Learn With Me: Intro to Machine Learning</a></td>
+			<td align="center">8</td>
+			<td align="center">1</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>NeuralNine</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL7yh-TELLS1EZGz1-VDltwdwZvPV-jliQ">Python Machine Learning Tutorial</a></td>
+			<td align="center">8</td>
+			<td align="center">3</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>NeuralNine</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL7yh-TELLS1FfO5Q8KHK31VgsrcnWcTAk">Python Data Science Tutorial</a></td>
+			<td align="center">17</td>
+			<td align="center">3</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>The AI University</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLlH6o4fAIji7ZWLeh4V7dIXWgCA9RmlOl">Machine Learning & Deep Learning Bootcamp Series</a></td>
+			<td align="center">79</td>
+			<td align="center">20</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>The AI University</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLlH6o4fAIji5JmlmEs-MYe1tYBwuwW5ah">Machine Learning & Deep Learning Projects</a></td>
+			<td align="center">53</td>
+			<td align="center">15</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>The AI University</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLlH6o4fAIji6MVTALcCOqz-VdOH7ivBA9">Machine Learning using Spark MLLib</a></td>
+			<td align="center">13</td>
+			<td align="center">3</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>The AI University</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLlH6o4fAIji5_uBO9Hbar22wT2TeTerLS">Data Science Tip and Tricks and Career Advice</a></td>
+			<td align="center">24</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>The AI University</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLlH6o4fAIji4BT8YYpqUWCo203nRxIiDR">Deep Learning Neural Network Tutorials</a></td>
+			<td align="center">30</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>The AI University</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLlH6o4fAIji5W4c1aEzT-zcG_IUjJXa4e">Machine Learning Data Pre-processing & Data Wrangling using Python</a></td>
+			<td align="center">16</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>The AI University</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLlH6o4fAIji7ZWLeh4V7dIXWgCA9RmlOl">Machine Learning & Deep Learning Bootcamp Series</a></td>
+			<td align="center">79</td>
+			<td align="center">20</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>The AI University</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLlH6o4fAIji6FEsjFeo7gRgiwhPUkJ4ap">Deploy Machine Learning Models as Web App using Flask & Docker on Azure Cloud</a></td>
+			<td align="center">30</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>The AI University</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLlH6o4fAIji7hT3m0wmn3T4F_KEIfxFl5">Machine Learning, Deep Learning Maths | Matrix & Vector Operations</a></td>
+			<td align="center">19</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>AIEngineering</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL3N9eeOlCrP45DNfnYOiEOyFfv8Jihcok">Machine Learning Projects</a></td>
+			<td align="center">22</td>
+			<td align="center">15</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>AIEngineering</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL3N9eeOlCrP7OURN_5tlwPJwF3v3ZXqP2">Machine Learning on GPU</a></td>
+			<td align="center">11</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>AIEngineering</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL3N9eeOlCrP6IjkyExZW9oZFwt-A1r0qB">Applied Statistics for Data Science</a></td>
+			<td align="center">13</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>AIEngineering</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL3N9eeOlCrP5PlN1jwOB3jVZE6nYTVswk">Machine Learning Model Deployment</a></td>
+			<td align="center">29</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>AIEngineering</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL3N9eeOlCrP5wZ99ZsULU7rtrWTjh_F5g">Automated Machine Learning (AutoML)</a></td>
+			<td align="center">25</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>AIEngineering</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL3N9eeOlCrP4VXtFJTjmGsqI-Emk2keVL">Machine Learning Model Deployment on Google Cloud</a></td>
+			<td align="center">18</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>AIEngineering</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL3N9eeOlCrP5cK0QRQxeJd6GrQvhAtpBK">Time Series Modelling and Analysis</a></td>
+			<td align="center">31</td>
+			<td align="center">20</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>AIEngineering</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL3N9eeOlCrP6Y73-dOA5Meso7Dv7qYiUU">End to End Machine Learning</a></td>
+			<td align="center">27</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Jeremy Howard</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLfYUBJiXbdtSyktd8A_x0JNd6lxDcZE96">Introduction to Machine Learning for Coders</a></td>
+			<td align="center">12</td>
+			<td align="center">15</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Python Engineer</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E">Machine Learning from Scratch - Python Tutorials</a></td>
+			<td align="center">15</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Xoviabcs</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLEJxKK7AcSEE6AFy0RmNHmV5EEM0lYkyT">Machine Learning: IIT Lectures/Tutorial/Course for Beginners</a></td>
+			<td align="center">85</td>
+			<td align="center">30</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Alex Smola</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLZSO_6-bSqHTTV7w9u7grTXBHMH-mw3qn">Machine Learning CMU Spring 2015 10-701</a></td>
+			<td align="center">31</td>
+			<td align="center">25</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Alex Smola</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLZSO_6-bSqHQCIYxE3ycGLXHMjK3XV7Iz">Machine Learning Summer School 2014</a></td>
+			<td align="center">47</td>
+			<td align="center">50</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Alex Smola</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW">Deep Learning UC Berkeley STAT-157 2019</a></td>
+			<td align="center">129</td>
+			<td align="center">25</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Alex Smola</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLZSO_6-bSqHTw6zw5XhxawMgYGRItZ4Zg">CMU Machine Learning Projects 10-701 2015</a></td>
+			<td align="center">32</td>
+			<td align="center">3</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Alex Smola</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLZSO_6-bSqHR7NPk4k0zqdm2dPdraQZ_B">Machine Learning CMU Fall 2013 10-701x</a></td>
+			<td align="center">21</td>
+			<td align="center">30</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Alex Smola</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLZSO_6-bSqHQmMKwWVvYwKreGu4b4kMU9">Machine Learning CMU 2013 10-701</a></td>
+			<td align="center">41</td>
+			<td align="center">20</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Alex Smola</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLZSO_6-bSqHQsDaBNtcFwMQuJw_djFnbd">Deep Learning Crash Course 2021</a></td>
+			<td align="center">14</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Alex Smola</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLZSO_6-bSqHQ_29JS5GnZdK0yTS53dWib">UC Berkeley STAT-157 2019 Projects</a></td>
+			<td align="center">18</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Indian AI Production</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLfP3JxW-T70FRZ4dkYpys3WfGz1Lx03Fp">Data Science Project in Hindi 2021</a></td>
+			<td align="center">52</td>
+			<td align="center">25</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Indian AI Production</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLfP3JxW-T70FfgI3BSRjjwgFvLOyufID1">Deep Learning Project End to End in Hindi 2021</a></td>
+			<td align="center">38</td>
+			<td align="center">15</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Indian AI Production</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLfP3JxW-T70GR0w3zVzG7tgIFI14FZxaj">Data Preprocessing and Feature Engineering in Hindi 2020</a></td>
+			<td align="center">23</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Indian AI Production</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLfP3JxW-T70HkhNxdgZeApdpiOfL6KAQE">Data Preprocessing 2020</a></td>
+			<td align="center">24</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Indian AI Production</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLfP3JxW-T70HvifebGl3d5d5jzI1Kp0i8">Data Science Course 2021</a></td>
+			<td align="center">68</td>
+			<td align="center">15</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Indian AI Production</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLfP3JxW-T70HzK_5mVpy9OK2x9Ktbozoc">Feature Engineering 2020</a></td>
+			<td align="center">27</td>
+			<td align="center">15</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Indian AI Production</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLfP3JxW-T70G1p8aHEIknz-9OpWw7LsIJ">Support Vector Machine (SVM) Algorithm in Hindi 2020</a></td>
+			<td align="center">6</td>
+			<td align="center">3</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Indian AI Production</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLfP3JxW-T70GzK_mU0oWYbnMhjWbVc2O5">Machine Learning Projects 2021</a></td>
+			<td align="center">45</td>
+			<td align="center">15</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Indian AI Production</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLfP3JxW-T70Fg3SKdwcjtRTzUcyg9N5-k">Machine Learning Algorithms in Hindi 2021</a></td>
+			<td align="center">25</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Indian AI Production</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLfP3JxW-T70GE6ixk08sPyjm1fhV6ARL_">Machine Learning Projects - End to End in Python 2021</a></td>
+			<td align="center">43</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Indian AI Production</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLfP3JxW-T70HLRjrFP88sWlIDUlKahx8A">Machine Learning - Beginner To Professional Hands-on Python in Hindi</a></td>
+			<td align="center">123</td>
+			<td align="center">20</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Indian AI Production</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLfP3JxW-T70Hh7j17_NLzjZ8CejSPx40V">Machine Learning Tutorial using Python in Hindi 2021</a></td>
+			<td align="center">122</td>
+			<td align="center">20</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Paul G. Allen School</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLTPQEx-31JXhguCush5J7OGnEORofoCW9">2019 Mathematics of Machine Learning Summer School</a></td>
+			<td align="center">25</td>
+			<td align="center">25</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Paul G. Allen School</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLTPQEx-31JXgtDaC6-3HxWcp7fq4N8YGr">CSEP 546, Machine Learning, Sp 2016</a></td>
+			<td align="center">10</td>
+			<td align="center">30</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Andrew Jahn</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLIQIswOrUH6-ybg2RrZek-o5gM8IDcCsJ">Machine Learning with MRI Data</a></td>
+			<td align="center">11</td>
+			<td align="center">1</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>DigitalSreeni</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLZsOBAyNTZwY87UZjkN-8z9JDk35DX5v6">Python basics for beginners</a></td>
+			<td align="center">44</td>
+			<td align="center">15</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>DigitalSreeni</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLZsOBAyNTZwaQB9nUTYUYNhz7b22bAJYY">Traditional Machine Learning in Python</a></td>
+			<td align="center">52</td>
+			<td align="center">25</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>DigitalSreeni</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLZsOBAyNTZwYHBIlu_PUO19M7aHMgwBJr">Python tutorials for image processing and machine learning</a></td>
+			<td align="center">215</td>
+			<td align="center">55</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>DigitalSreeni</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLZsOBAyNTZwbIjGnolFydAN33gyyGP7lT">Python tutorials from basics to deep learning (with code)</a></td>
+			<td align="center">214</td>
+			<td align="center">55</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Kilian Weinberger</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS">CORNELL CS4780 "Machine Learning for Intelligent Systems"</a></td>
+			<td align="center">39</td>
+			<td align="center">35</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Weights & Biases</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLD80i8An1OEG8LvgREvgakhaqBBXBXfql">Explore Deep Learning</a></td>
+			<td align="center">7</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Weights & Biases</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLD80i8An1OEEe2X5KA_uSvMaEMl0lo4jP">Applied Deep Learning Lectures</a></td>
+			<td align="center">13</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Weights & Biases</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLD80i8An1OEHSai9cf-Ip-QReOVW76PlB">Introduction to Machine Learning</a></td>
+			<td align="center">12</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>GeostatsGuy Lectures</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLG19vXLQHvSC2ZKFIkgVpI9fCjkN38kwf">Machine Learning</a></td>
+			<td align="center">44</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>GeostatsGuy Lectures</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLG19vXLQHvSDUmEOmBoaxGbFAbvaLdfx4">Spatial Data Analytics</a></td>
+			<td align="center">24</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>GeostatsGuy Lectures</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLG19vXLQHvSB-D4XKYieEku9GQMQyAzjJ">Introduction to Data Analytics, Geostatistics and Machine Learning</a></td>
+			<td align="center">54</td>
+			<td align="center">30</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Manolis Kellis</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLypiXJdtIca6U5uQOCHjP9Op3gpa177fK">Machine Learning in Genomics - Fall 2019</a></td>
+			<td align="center">26</td>
+			<td align="center">35</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Manolis Kellis</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLypiXJdtIca5sxV7aE3-PS9fYX3vUdIOX">Deep Learning in Life Sciences - Spring 2021</a></td>
+			<td align="center">9</td>
+			<td align="center">15</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Manolis Kellis</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLypiXJdtIca6dEYlNoZJwBaz__CdsaoKJ">Machine Learning for Genomics Fall 2020</a></td>
+			<td align="center">22</td>
+			<td align="center">30</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Manolis Kellis</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLypiXJdtIca5ElZMWHl4HMeyle2AzUgVB">MIT Deep Learning in Life Sciences Spring 2020</a></td>
+			<td align="center">15</td>
+			<td align="center">20</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Max Planck Institute for Intelligent Systems</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLqJm7Rc5-EXFUOvoYCdKikfck8YeUCnl9">Machine Learning Summer School 2017 Tübingen</a></td>
+			<td align="center">33</td>
+			<td align="center">40</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Max Planck Institute for Intelligent Systems</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLqJm7Rc5-EXFv6RXaPZzzlzo93Hl0v91E">Machine Learning Summer School 2013 Tübingen</a></td>
+			<td align="center">31</td>
+			<td align="center">45</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Mirror Neuron</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLcQCwsZDEzFmlSc6levE3UV9rZ8yY-D_7">Mathematics for Machine Learning</a></td>
+			<td align="center">80</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Mirror Neuron</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLcQCwsZDEzFmhfS39CDc9L7oC-kUWaOtB">Mathematical Notation Deep Learning Explained</a></td>
+			<td align="center">5</td>
+			<td align="center">1</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Mirror Neuron</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLcQCwsZDEzFneBgt6wXftX4W08wSjfJ4g">Neural Networks</a></td>
+			<td align="center">8</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Mirror Neuron</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLcQCwsZDEzFnmUDaOHQeWbiP7N_acsFb9">Practical Statistics</a></td>
+			<td align="center">6</td>
+			<td align="center">1</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Mirror Neuron</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLcQCwsZDEzFkSZj66XhNjXl6_Uuo99DLr">Machine Learning Algorithms</a></td>
+			<td align="center">16</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Mirror Neuron</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLcQCwsZDEzFm2pG7Dh1DrLFqWgSxhWd9_">Probability for Machine Learning</a></td>
+			<td align="center">19</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Mirror Neuron</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLcQCwsZDEzFkQj3tOV2NDrjJ43iuNY5yC">Python Project for Machine Learning</a></td>
+			<td align="center">24</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Mirror Neuron</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLcQCwsZDEzFlg9ET-BEZVns7q-FTWF3ib">Machine Learning Case Studies</a></td>
+			<td align="center">11</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Mirror Neuron</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLcQCwsZDEzFkaBv6-7FYt2p9ofempmagq">Machine Learning Books</a></td>
+			<td align="center">11</td>
+			<td align="center">1</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Mirror Neuron</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLcQCwsZDEzFkP9WMe6xvLrd_ZNGqoXOQY">Step by Step - Machine Learning - Housing Price Prediction</a></td>
+			<td align="center">10</td>
+			<td align="center">3</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Splunk & Machine Learning</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLSr58-DJdRyalgKiMaqyrGvpmgKs3mhhQ">Machine Learning ( ML #1)</a></td>
+			<td align="center">21</td>
+			<td align="center">15</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Splunk & Machine Learning</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLSr58-DJdRyYKfCL0qsj-KqThhs2y8EmO">Deep Learning (ML #3)</a></td>
+			<td align="center">10</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Splunk & Machine Learning</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLSr58-DJdRyb9DTsjzfjen1FLyG74P4-f">Statistics for Data Science ( ML #2)</a></td>
+			<td align="center">5</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Tübingen Machine Learning</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL05umP7R6ij1qBaWovWYINzgFZJrBey4L">"Machine Learning in Science" Conference 2020</a></td>
+			<td align="center">15</td>
+			<td align="center">15</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Tübingen Machine Learning</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL05umP7R6ij0Gw5SLIrOA1dMYScCx4oXT">Essential Statistics – Philipp Berens, 2020/21</a></td>
+			<td align="center">16</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Tübingen Machine Learning</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd">Probabilistic Machine Learning — Philipp Hennig, 2020</a></td>
+			<td align="center">28</td>
+			<td align="center">40</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Tübingen Machine Learning</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL05umP7R6ij1a6KdEy8PVE9zoCv6SlHRS">Mathematics for Machine Learning — Ulrike von Luxburg, 2020/21</a></td>
+			<td align="center">87</td>
+			<td align="center">30</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Tübingen Machine Learning</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL05umP7R6ij35ShKLDqccJSDntugY4FQT">Introduction to Machine Learning — Dmitry Kobak, 2020/21</a></td>
+			<td align="center">9</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Tübingen Machine Learning</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD">Deep Learning — Andreas Geiger, 2020/21</a></td>
+			<td align="center">46</td>
+			<td align="center">15</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Tübingen Machine Learning</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC">Statistical Machine Learning — Ulrike von Luxburg, 2020</a></td>
+			<td align="center">58</td>
+			<td align="center">45</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>BASIRA Lab</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLug43ldmRSo1LDlvQOPzgoJ6wKnfmzimQ">Machine Learning Blinks (Spring 2021)</a></td>
+			<td align="center">57</td>
+			<td align="center">20</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Jisu Kim</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE">Spring 2016: Statistical Machine Learning</a></td>
+			<td align="center">24</td>
+			<td align="center">30</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Mike Gelbart</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLWmXHcz_53Q2BXsWviGgEqdlSHmfsjSzC">CPSC 330: Applied Machine Learning (2020)</a></td>
+			<td align="center">26</td>
+			<td align="center">20</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Mike Gelbart</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLWmXHcz_53Q3KLISD8jydKjz41b9iqERC">DSCI 572: Supervised Learning II (2020)</a></td>
+			<td align="center">8</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Mike Gelbart</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLWmXHcz_53Q26aQzhknaT3zwWvl7w8wQE">DSCI 511: Programming for Data Science (2019)</a></td>
+			<td align="center">4</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Mike Gelbart</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLWmXHcz_53Q02ZLeAxigki1JZFfCO6M-b">CPSC 340: Machine Learning and Data Mining (2018)</a></td>
+			<td align="center">33</td>
+			<td align="center">25</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Unknown</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL-Mfq5QS-s8iS9XqKuApPE1TSlnZblFHF">University of Toronto - Introduction to Machine Learning Course - Winter 2019 (38 Lectures)</a></td>
+			<td align="center">38</td>
+			<td align="center">30</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Unknown</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL-Mfq5QS-s8horb94sQH4xcL85zDkpL9w">York University - Introduction to Machine Learning Course (EECS4404E)- Fall 2019 (21 lectures)</a></td>
+			<td align="center">21</td>
+			<td align="center">25</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Unknown</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLC6pMXTX4r7Qn3VT58GyI7k34srlGxXX_">DS-GA 1003 (Sp2016): Machine Learning and Computational Statistics</a></td>
+			<td align="center">23</td>
+			<td align="center">25</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Unknown</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLbkSohdmxoVAZ9DEHEWHjeGK7Ei-DjKHI">Full Course: The Foundations of Machine Learning</a></td>
+			<td align="center">131</td>
+			<td align="center">25</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Unknown</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLUjDWbHzLn6NOha7_RnC5LOXurenpy-QE">Stanford CS224W: Machine Learning With Graphs | Autumn 2019</a></td>
+			<td align="center">21</td>
+			<td align="center">30</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Unknown</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83">Applied Machine Learning (Cornell Tech CS 5787, Fall 2020)</a></td>
+			<td align="center">80</td>
+			<td align="center">20</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Unknown</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLfng5rv4gTmqAP1UifEBuFFADrkoASjp2">Machine Learning</a></td>
+			<td align="center">44</td>
+			<td align="center">15</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Unknown</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLfng5rv4gTmpXie3zcZ0IuQ10NXP3CBic">Machine Learning Using Sklearn Library</a></td>
+			<td align="center">24</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Unknown</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLfng5rv4gTmqQBWLNIzI2q0eGsexAU0bN">Artificial Intelligence</a></td>
+			<td align="center">36</td>
+			<td align="center">10</td>
+		</tr>
+	</tbody>
+	</table>
+
 <h3>-  Data Mining</h3>
 <table>
 	<thead>
@@ -1731,28 +2774,16 @@ Artificial Intelligence Playlists road map for computer science students, which 
 			<td align="center">3</td>
 		</tr>
 		<tr>
-			<td rowspan=1 align=center>Oresoft LWC</td>
-			<td><a href="https://www.youtube.com/playlist?list=PL0174E49C0E0DD5C8">Web Data Mining</a></td>
-			<td align="center">126</td>
-			<td align="center">35</td>
-		</tr>
-		<tr>
 			<td rowspan=1 align=center>Jalayer Academy</td>
 			<td><a href="https://www.youtube.com/playlist?list=PLjPbBibKHH18I0mDb_H4uP3egypHIsvMn">Machine Learning, Data Mining, Statistics with R</a></td>
 			<td align="center">50</td>
 			<td align="center">10</td>
 		</tr>
 		<tr>
-			<td rowspan=1 align=center>Unknown</td>
-			<td><a href="https://www.youtube.com/playlist?list=PL77F08DCD8CE6C62E">Stanford Data Mining Lectures</a></td>
-			<td align="center">22</td>
-			<td align="center">30</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>Noureddin Sadawi</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLea0WJq13cnCS4LLMeUuZmTxqsqlhwUoe">Data Mining Algorithms</a></td>
-			<td align="center">36</td>
-			<td align="center">5</td>
+			<td rowspan=1 align=center>Oresoft LWC</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL0174E49C0E0DD5C8">Web Data Mining</a></td>
+			<td align="center">126</td>
+			<td align="center">35</td>
 		</tr>
 		<tr>
 			<td rowspan=1 align=center>Programology</td>
@@ -1765,6 +2796,18 @@ Artificial Intelligence Playlists road map for computer science students, which 
 			<td><a href="https://www.youtube.com/playlist?list=PLR2FqYUVaFJr-XPjTp7oe5Zxqe1tZSC3t">data mining and data warehousing lecture in hindi urdu tamil telugu</a></td>
 			<td align="center">21</td>
 			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Noureddin Sadawi</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLea0WJq13cnCS4LLMeUuZmTxqsqlhwUoe">Data Mining Algorithms</a></td>
+			<td align="center">36</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Pirple</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLgTkNlNsy9gXoMB2-YO_Tuu94mctmu2h7">Data Mining With Python</a></td>
+			<td align="center">7</td>
+			<td align="center">1</td>
 		</tr>
 		<tr>
 			<td rowspan=1 align=center>WekaMOOC</td>
@@ -1785,10 +2828,10 @@ Artificial Intelligence Playlists road map for computer science students, which 
 			<td align="center">5</td>
 		</tr>
 		<tr>
-			<td rowspan=1 align=center>Pirple</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLgTkNlNsy9gXoMB2-YO_Tuu94mctmu2h7">Data Mining With Python</a></td>
-			<td align="center">7</td>
-			<td align="center">1</td>
+			<td rowspan=1 align=center>Data Science Show</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL_iP0SGUzx9Sal8pTa67sozY2sVLywbEo">Data Mining in Excel</a></td>
+			<td align="center">13</td>
+			<td align="center">5</td>
 		</tr>
 		<tr>
 			<td rowspan=1 align=center>SAS Users</td>
@@ -1797,16 +2840,16 @@ Artificial Intelligence Playlists road map for computer science students, which 
 			<td align="center">5</td>
 		</tr>
 		<tr>
-			<td rowspan=1 align=center>Data Science Show</td>
-			<td><a href="https://www.youtube.com/playlist?list=PL_iP0SGUzx9Sal8pTa67sozY2sVLywbEo">Data Mining in Excel</a></td>
-			<td align="center">13</td>
+			<td rowspan=1 align=center>Binod Suman Academy</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLIRnO_sdVuEdK8pWx75SvflvLKcbI1uRE">Data Mining</a></td>
+			<td align="center">7</td>
 			<td align="center">5</td>
 		</tr>
 		<tr>
-			<td rowspan=1 align=center>Virtual University</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLFX_EwFvKKWPMueAR4gIdXK-5B0doNkKX">CS725 - Data Mining</a></td>
-			<td align="center">220</td>
-			<td align="center">30</td>
+			<td rowspan=1 align=center>Ed Technology</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLy6JR9IR8VKPClVLjAoSNyIXsK0u0HuGc">Data Mining Lectures</a></td>
+			<td align="center">29</td>
+			<td align="center">3</td>
 		</tr>
 		<tr>
 			<td rowspan=1 align=center>Mike Gelbart</td>
@@ -1815,10 +2858,16 @@ Artificial Intelligence Playlists road map for computer science students, which 
 			<td align="center">25</td>
 		</tr>
 		<tr>
-			<td rowspan=1 align=center>Binod Suman Academy</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLIRnO_sdVuEdK8pWx75SvflvLKcbI1uRE">Data Mining</a></td>
-			<td align="center">7</td>
+			<td rowspan=1 align=center>Sunny Mac Channel</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLGb3TeeSFTeNdwIaxKDYF2syKHteLMruu">DATA MINING - COMPLETE SYLLABUS</a></td>
+			<td align="center">17</td>
 			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>The Academician</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL_yJxLdTxJhofLg__t8QSinjpYuugRbqa">Data Mining</a></td>
+			<td align="center">55</td>
+			<td align="center">10</td>
 		</tr>
 		<tr>
 			<td rowspan=1 align=center>UofU Data Science</td>
@@ -1839,22 +2888,10 @@ Artificial Intelligence Playlists road map for computer science students, which 
 			<td align="center">35</td>
 		</tr>
 		<tr>
-			<td rowspan=1 align=center>The Academician</td>
-			<td><a href="https://www.youtube.com/playlist?list=PL_yJxLdTxJhofLg__t8QSinjpYuugRbqa">Data Mining</a></td>
-			<td align="center">55</td>
-			<td align="center">10</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>Ed Technology</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLy6JR9IR8VKPClVLjAoSNyIXsK0u0HuGc">Data Mining Lectures</a></td>
-			<td align="center">29</td>
-			<td align="center">3</td>
-		</tr>
-		<tr>
-			<td rowspan=1 align=center>Sunny Mac Channel</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLGb3TeeSFTeNdwIaxKDYF2syKHteLMruu">DATA MINING - COMPLETE SYLLABUS</a></td>
-			<td align="center">17</td>
-			<td align="center">5</td>
+			<td rowspan=1 align=center>Virtual University</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLFX_EwFvKKWPMueAR4gIdXK-5B0doNkKX">CS725 - Data Mining</a></td>
+			<td align="center">220</td>
+			<td align="center">30</td>
 		</tr>
 		<tr>
 			<td rowspan=1 align=center>Computer Science and Engineering</td>
@@ -1863,16 +2900,22 @@ Artificial Intelligence Playlists road map for computer science students, which 
 			<td align="center">5</td>
 		</tr>
 		<tr>
+			<td rowspan=1 align=center>Dothang Truong</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLRDHFVPFwalDq5C7n31bmwe3Apa_dMZ22">Data Mining</a></td>
+			<td align="center">27</td>
+			<td align="center">15</td>
+		</tr>
+		<tr>
 			<td rowspan=1 align=center>Open ETH</td>
 			<td><a href="https://www.youtube.com/playlist?list=PLY-OA_xnxFwRHZO6L6yT253VPgrZazQs6">Data Mining: Learning From Large Datasets (ETH Zurich, fall 2017)</a></td>
 			<td align="center">12</td>
 			<td align="center">20</td>
 		</tr>
 		<tr>
-			<td rowspan=1 align=center>Dothang Truong</td>
-			<td><a href="https://www.youtube.com/playlist?list=PLRDHFVPFwalDq5C7n31bmwe3Apa_dMZ22">Data Mining</a></td>
-			<td align="center">27</td>
-			<td align="center">15</td>
+			<td rowspan=1 align=center>Unknown</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL77F08DCD8CE6C62E">Stanford Data Mining Lectures</a></td>
+			<td align="center">22</td>
+			<td align="center">30</td>
 		</tr>
 	</tbody>
 </table>
