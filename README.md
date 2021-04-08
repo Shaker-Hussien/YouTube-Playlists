@@ -1,9 +1,9 @@
 <img align="right" width="80" height="50" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg">
 
-# YouTube-Playlists
+# [YouTube](https://www.youtube.com/) Playlists
 YouTube playlists road map for computer science students.
 
-## [Computer-Science-Playlists](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Computer-Science-Playlists)
+## [Computer Science](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Computer-Science-Playlists/README.md) Playlists
 Computer Science Playlists road map for computer science students, which including the following main topics:
 
 #### `1.` Introduction to Computer Science Playlists
