@@ -6,16 +6,16 @@ YouTube playlists road map for computer science students.
 ## [Computer Science](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Computer-Science-Playlists/README.md) Playlists
 Computer Science Playlists road map for computer science students, which including the following main topics:
 
-### `1.` [Introduction to Computer Science](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Computer-Science-Playlists/README.md) Playlists
-### `2.` [Programming Languages and Object Oriented](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Computer-Science-Playlists/README.md) Playlists
-### `3.` [Mathematics and Discrete Mathematics](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Computer-Science-Playlists/README.md) Playlists
-### `4.` [Calculus and Algebra and Differential Equations](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Computer-Science-Playlists/README.md) Playlists
-### `5.` [Probability and Statistics](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Computer-Science-Playlists/README.md) Playlists
-### `6.` [Electronics and Logic Design](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Computer-Science-Playlists/README.md) Playlists
-### `7.` [Data Structures and Algorithms](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Computer-Science-Playlists/README.md) Playlists
-### `8.` [Operating Systems and Shell Scripting](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Computer-Science-Playlists/README.md) Playlists
-### `9.` [Theory of Computations and Computer Architecture](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Computer-Science-Playlists/README.md) Playlists
-### `10.` [Compiler Design and Parallel Computing and Distributed Systems](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Computer-Science-Playlists/README.md) Playlists
+### `1.` [Introduction to Computer Science](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Computer-Science-Playlists/README.md) Playlists `4 Entities`
+### `2.` [Programming Languages and Object Oriented](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Computer-Science-Playlists/README.md) Playlists `2 Entities`
+### `3.` [Mathematics and Discrete Mathematics](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Computer-Science-Playlists/README.md) Playlists `3 Entities`
+### `4.` [Calculus and Algebra and Differential Equations](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Computer-Science-Playlists/README.md) Playlists `3 Entities`
+### `5.` [Probability and Statistics](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Computer-Science-Playlists/README.md) Playlists `2 Entities`
+### `6.` [Electronics and Logic Design](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Computer-Science-Playlists/README.md) Playlists `2 Entities`
+### `7.` [Data Structures and Algorithms](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Computer-Science-Playlists/README.md) Playlists `2 Entities`
+### `8.` [Operating Systems and Shell Scripting](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Computer-Science-Playlists/README.md) Playlists `2 Entities`
+### `9.` [Theory of Computations and Computer Architecture](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Computer-Science-Playlists/README.md) Playlists `2 Entities`
+### `10.` [Compiler Design and Parallel Computing and Distributed Systems](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Computer-Science-Playlists/README.md) Playlists `3 Entities`
 
 **SKILLS YOU WILL GAIN:**<br>
 `computer science`, `discrete mathematics`, `mathematics`, `probability`, `statistics`, `python programming`, `c++ programming`, `c programming`, `c++ object oriented programming (oop)`, `python object oriented programming (oop)`, `electronics`, `logic design`, `data structures`, `algorithms`, `advanced data Structures`, `advanced algorithms`, `theory of computations`, `compilers design`, `concepts of programming languages`, `computer architecture`, `computer organization`, `parallel processing`, `parallel computing`, `distributed systems`, `operating systems`, `shell scripting`
