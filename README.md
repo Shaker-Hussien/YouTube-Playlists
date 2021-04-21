@@ -18,7 +18,7 @@ Computer Science Playlists road map for computer science students, which includi
 #### `10.` [Compiler Design and Parallel Computing and Distributed Systems](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Computer-Science-Playlists/README.md) Playlists `3 Entities`
 
 **SKILLS YOU WILL GAIN:**<br>
-`computer science`, `discrete mathematics`, `mathematics`, `probability`, `statistics`, `python programming`, `c++ programming`, `c programming`, `c++ object oriented programming (oop)`, `python object oriented programming (oop)`, `electronics`, `logic design`, `data structures`, `algorithms`, `advanced data Structures`, `advanced algorithms`, `theory of computations`, `compilers design`, `concepts of programming languages`, `computer architecture`, `computer organization`, `parallel processing`, `parallel computing`, `distributed systems`, `operating systems`, `shell scripting`
+`computer science`, `discrete mathematics`, `mathematics`, `calculus`, `algebra`, `differential equations`, `probability`, `statistics`, `python programming`, `c++ programming`, `c programming`, `c++ object oriented programming (oop)`, `python object oriented programming (oop)`, `object oriented programming (oop)`, `logic design`, `data structures`, `algorithms`, `advanced data Structures`, `advanced algorithms`, `theory of computations`, `compiler design`, `operating systems`, `concepts of programming languages`, `computer architecture`, `computer organization`, `parallel computing`, `parallel processing`, `electronics`, `distributed systems`, `shell scripting`
 
 <img align="right" width="80" height="50" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg">
 
