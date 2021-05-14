@@ -2677,7 +2677,7 @@ Computer Science Playlists road map for computer science students, which includi
 
 </details>
 <details>
-	<summary>Data Structures and Algorithms Playlists</summary>
+	<summary>Data Structures and Algorithms Analysis and Design Playlists</summary>
 
 <h3>-  Data Structures and Algorithms</h3>
 <table>
