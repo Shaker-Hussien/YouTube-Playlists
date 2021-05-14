@@ -12,7 +12,7 @@ Computer Science Playlists road map for computer science students, which includi
 #### `4.` [Calculus and Algebra and Differential Equations](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Computer-Science-Playlists/README.md) Playlists `3 Entities`
 #### `5.` [Probability and Statistics](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Computer-Science-Playlists/README.md) Playlists `2 Entities`
 #### `6.` [Electronics and Logic Design](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Computer-Science-Playlists/README.md) Playlists `2 Entities`
-#### `7.` [Data Structures and Algorithms](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Computer-Science-Playlists/README.md) Playlists `2 Entities`
+#### `7.` [Data Structures and Algorithms Analysis and Design](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Computer-Science-Playlists/README.md) Playlists `2 Entities`
 #### `8.` [Operating Systems and Shell Scripting](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Computer-Science-Playlists/README.md) Playlists `2 Entities`
 #### `9.` [Theory of Computations and Computer Architecture](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Computer-Science-Playlists/README.md) Playlists `2 Entities`
 #### `10.` [Compiler Design and Parallel Computing and Distributed Systems](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Computer-Science-Playlists/README.md) Playlists `3 Entities`
@@ -34,7 +34,7 @@ Software Engineering Playlists road map for computer science students, which inc
 #### `7.` [User Interface and User Experience (UI/UX)](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Software-Engineering-Playlists/README.md) Playlists
 #### `8.` [Continuous Delivery and DevOps](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Software-Engineering-Playlists/README.md) Playlists
 #### `9.` [Cloud Computing](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Software-Engineering-Playlists/README.md) Playlists
-#### `10.` [Project Management](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Software-Engineering-Playlists/README.md) Playlists
+#### `10.` [Systems Project Management](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Software-Engineering-Playlists/README.md) Playlists
 
 **SKILLS YOU WILL GAIN:**<br>
 `software engineering`, `object oriented design`, `object oriented analysis`, `service oriented architecture`, `analysis of systems`, `design of systems`, `quality control`, `desktop applications`, `mobile applications`, `web applications`, `game applications`, `cross platform development`, `continuous delivery`, `devops`, `cloud computing`, `project management`, `android`, `ios`, `product development`, `google app engine (gae)`, `unity`, `parallel computing`, `parallel processing`, `shell script`, `web service`, `kubernetes`, `game design`, `virtual machine (vm)`, `virtual reality (vr)`, `php programming`, `agile user stories`, `software quality`, `microservices`, `user interface (ui)`, `jenkins`, `github`, `command line interface`, `version control systems`, `java programming`, `python programming`, `c# programming`, `swift programming`, `objective-c`, `google cloud platform`, `google compute engine`, `human computer interaction`, `reactive programming`, `distributed systems`, `software architecture`, `agile software development`, `javascript programming`, `user experience (ux)`, `responsive web design`
