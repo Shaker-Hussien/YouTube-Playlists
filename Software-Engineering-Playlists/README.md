@@ -41,7 +41,7 @@ Software Engineering Playlists road map for computer science students, which inc
 
 </details>
 <details>
-	<summary>Project Management Playlists</summary>
+	<summary>Systems Project Management Playlists</summary>
 
 </details>
 
