@@ -78,3 +78,13 @@ Data Science Playlists road map for computer science students, which including t
 
 **SKILLS YOU WILL GAIN:**<br>
 `data science`, `data analysis`, `excel`, `data cleansing`, `data management`, `data processing`, `data validation`, `data wrangling`, `data quality`, `data modeling`, `data parallelism`, `data integration`, `data storage`, `data retrieval`, `data warehousing`, `data engineering`, `data mining`, `text mining`, `natural language processing`, `natural language toolkit (nltk)`, `time series`, `machine learning`, `advanced machine learning`, `multi-task learning`, `reinforcement learning`, `markov chain monte carlo (mcmc)`, `tableau`, `data vizualisation`, `advanced data vizualisation`, `python programming`, `r programming`, `rstudio`, `scala programming`, `python libraries`, `sql`, `nosql`, `database systems`, `database design`, `business analysis`, `business intelligence`, `apache spark`, `apache hadoop`, `big data`, `presentation design`, `extraction and transformation and loading (etl)`, `web scraping`, `parallel computing`, `cloud computing`, `cloud databases`
+
+<img align="right" width="80" height="50" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg">
+
+## [Operation Research](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Operation-Research-Playlists/README.md) Playlists
+Operation Research Playlists road map for computer science students, which including the following main topics:
+
+<img align="right" width="80" height="50" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg">
+
+## [Bioinformatics](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Bioinformatics-Playlists/README.md) Playlists
+Bioinformatics Playlists road map for computer science students, which including the following main topics:
