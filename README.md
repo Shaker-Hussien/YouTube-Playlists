@@ -1,7 +1,7 @@
 # [YouTube](https://www.youtube.com/) Playlists
 YouTube playlists road map for computer science students.
 
-<img align="right" width="80" height="50" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg">
+<img align="right" width="80" height="55" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg">
 
 ## [Computer Science](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Computer-Science-Playlists/README.md) Playlists
 Computer Science Playlists road map for computer science students, which including the following main topics:
@@ -20,7 +20,7 @@ Computer Science Playlists road map for computer science students, which includi
 **SKILLS YOU WILL GAIN:**<br>
 `computer science`, `discrete mathematics`, `mathematics`, `calculus`, `algebra`, `differential equations`, `probability`, `statistics`, `python programming`, `c++ programming`, `c programming`, `c++ object oriented programming (oop)`, `python object oriented programming (oop)`, `object oriented programming (oop)`, `logic design`, `data structures`, `algorithms`, `advanced data Structures`, `advanced algorithms`, `theory of computations`, `compiler design`, `operating systems`, `concepts of programming languages`, `computer architecture`, `computer organization`, `parallel computing`, `parallel processing`, `electronics`, `distributed systems`, `shell scripting`
 
-<img align="right" width="80" height="50" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg">
+<img align="right" width="80" height="55" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg">
 
 ## [Software Engineering](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Software-Engineering-Playlists/README.md) Playlists
 Software Engineering Playlists road map for computer science students, which including the following main topics:
@@ -39,7 +39,7 @@ Software Engineering Playlists road map for computer science students, which inc
 **SKILLS YOU WILL GAIN:**<br>
 `software engineering`, `object oriented design`, `object oriented analysis`, `service oriented architecture`, `analysis of systems`, `design of systems`, `quality control`, `desktop applications`, `mobile applications`, `web applications`, `game applications`, `cross platform development`, `continuous delivery`, `devops`, `cloud computing`, `project management`, `android`, `ios`, `product development`, `google app engine (gae)`, `unity`, `parallel computing`, `parallel processing`, `shell script`, `web service`, `kubernetes`, `game design`, `virtual machine (vm)`, `virtual reality (vr)`, `php programming`, `agile user stories`, `software quality`, `microservices`, `user interface (ui)`, `jenkins`, `github`, `command line interface`, `version control systems`, `java programming`, `python programming`, `c# programming`, `swift programming`, `objective-c`, `google cloud platform`, `google compute engine`, `human computer interaction`, `reactive programming`, `distributed systems`, `software architecture`, `agile software development`, `javascript programming`, `user experience (ux)`, `responsive web design`
 
-<img align="right" width="80" height="50" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg">
+<img align="right" width="80" height="55" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg">
 
 ## [Artificial Intelligence](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Artificial-Intelligence-Playlists/README.md) Playlists
 Artificial Intelligence Playlists road map for computer science students, which including the following main topics:
@@ -59,7 +59,7 @@ Artificial Intelligence Playlists road map for computer science students, which 
 **SKILLS YOU WILL GAIN:**<br>
 `artificial intelligence`, `data analysis`, `excel`, `data management`, `data processing`, `data mining`, `text mining`, `natural language processing`, `natural language toolkit (nltk)`, `time series`, `machine learning`, `advanced machine learning`, `multi-task learning`, `reinforcement learning`, `markov chain monte carlo (mcmc)`, `data vizualisation`, `advanced data vizualisation`, `matlab programming`, `python programming`, `python libraries`, `digital signals processing`, `pattern recognition`, `image processing`, `computer graphics`, `deep learning`, `speech processing`, `dimensionality reduction`, `computer vision`, `cloud computing`, `tensorflow serving`, `keras`, `pytorch`
 
-<img align="right" width="80" height="50" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg">
+<img align="right" width="80" height="55" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg">
 
 ## [Data Science](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Data-Science-Playlists/README.md) Playlists
 Data Science Playlists road map for computer science students, which including the following main topics:
@@ -79,12 +79,12 @@ Data Science Playlists road map for computer science students, which including t
 **SKILLS YOU WILL GAIN:**<br>
 `data science`, `data analysis`, `excel`, `data cleansing`, `data management`, `data processing`, `data validation`, `data wrangling`, `data quality`, `data modeling`, `data parallelism`, `data integration`, `data storage`, `data retrieval`, `data warehousing`, `data engineering`, `data mining`, `text mining`, `natural language processing`, `natural language toolkit (nltk)`, `time series`, `machine learning`, `advanced machine learning`, `multi-task learning`, `reinforcement learning`, `markov chain monte carlo (mcmc)`, `tableau`, `data vizualisation`, `advanced data vizualisation`, `python programming`, `r programming`, `rstudio`, `scala programming`, `python libraries`, `sql`, `nosql`, `database systems`, `database design`, `business analysis`, `business intelligence`, `apache spark`, `apache hadoop`, `big data`, `presentation design`, `extraction and transformation and loading (etl)`, `web scraping`, `parallel computing`, `cloud computing`, `cloud databases`
 
-<img align="right" width="80" height="50" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg">
+<img align="right" width="80" height="55" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg">
 
 ## [Operation Research](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Operation-Research-Playlists/README.md) Playlists
 Operation Research Playlists road map for computer science students, which including the following main topics:
 
-<img align="right" width="80" height="50" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg">
+<img align="right" width="80" height="55" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg">
 
 ## [Bioinformatics](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Bioinformatics-Playlists/README.md) Playlists
 Bioinformatics Playlists road map for computer science students, which including the following main topics:
