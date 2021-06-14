@@ -3,7 +3,7 @@ YouTube playlists road map for computer science students.
 
 <img align="right" width="80" height="55" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg">
 
-## [Computer Science](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Computer-Science-Playlists/README.md) Playlists
+## [`Computer Science`](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Computer-Science-Playlists/README.md) Playlists
 Computer Science Playlists road map for computer science students, which including the following main topics:
 
 <details>
@@ -27,7 +27,7 @@ Computer Science Playlists road map for computer science students, which includi
   
 <img align="right" width="80" height="55" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg">
 
-## [Software Engineering](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Software-Engineering-Playlists/README.md) Playlists
+## [`Software Engineering`](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Software-Engineering-Playlists/README.md) Playlists
 Software Engineering Playlists road map for computer science students, which including the following main topics:
 
 <details>
@@ -51,7 +51,7 @@ Software Engineering Playlists road map for computer science students, which inc
 
 <img align="right" width="80" height="55" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg">
 
-## [Artificial Intelligence](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Artificial-Intelligence-Playlists/README.md) Playlists
+## [`Artificial Intelligence`](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Artificial-Intelligence-Playlists/README.md) Playlists
 Artificial Intelligence Playlists road map for computer science students, which including the following main topics:
 
 <details>
@@ -76,7 +76,7 @@ Artificial Intelligence Playlists road map for computer science students, which 
 
 <img align="right" width="80" height="55" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg">
 
-## [Data Science](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Data-Science-Playlists/README.md) Playlists
+## [`Data Science`](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Data-Science-Playlists/README.md) Playlists
 Data Science Playlists road map for computer science students, which including the following main topics:
 
 <details>
@@ -101,7 +101,7 @@ Data Science Playlists road map for computer science students, which including t
 
 <img align="right" width="80" height="55" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg">
 
-## [Operation Research](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Operation-Research-Playlists/README.md) Playlists
+## [`Operation Research`](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Operation-Research-Playlists/README.md) Playlists
 Operation Research Playlists road map for computer science students, which including the following main topics:
 
 <details>
@@ -111,7 +111,7 @@ Operation Research Playlists road map for computer science students, which inclu
 
 <img align="right" width="80" height="55" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg">
 
-## [Bioinformatics](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Bioinformatics-Playlists/README.md) Playlists
+## [`Bioinformatics`](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Bioinformatics-Playlists/README.md) Playlists
 Bioinformatics Playlists road map for computer science students, which including the following main topics:
 
 <details>
