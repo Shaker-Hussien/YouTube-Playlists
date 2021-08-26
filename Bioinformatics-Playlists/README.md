@@ -17,7 +17,7 @@ Bioinformatics Playlists for computer science students, which including the foll
             <tr>
                 <td rowspan=8 align=center>
 MIT OpenCourseWare <a href="https://www.youtube.com/c/mitocw">Playlists</a><br>
-<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/mit%20opencourseware.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/MIT%20OpenCourseWare.jpg" width="40%">
                 </td>
                 <td><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP62qauV_CpT1zKaGG_Vj5igX">MIT 18.217 Graph Theory and Additive Combinatorics, Fall 2019</a></td>
                 <td align="center">30</td>
@@ -52,8 +52,8 @@ MIT OpenCourseWare <a href="https://www.youtube.com/c/mitocw">Playlists</a><br>
             </tr>
             <tr>
                 <td rowspan=3 align=center>
-Tutorials Point (India) Ltd. <a href="https://www.youtube.com/channel/UCVLbzhxVTiTLiVKeGV7WEBg">Playlists</a><br>
-<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/tutorials%20point%20(india)%20ltd..jpg" width="40%">
+Tutorials Point (India) Ltd <a href="https://www.youtube.com/channel/UCVLbzhxVTiTLiVKeGV7WEBg">Playlists</a><br>
+<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Tutorials%20Point%20(India)%20Ltd.jpg" width="40%">
                 </td>
                 <td><a href="https://www.youtube.com/playlist?list=PLWPirh4EWFpG49yASGCmvOwXwVvgnm6Jt">Data Structures</a></td>
                 <td align="center">15</td>
@@ -101,7 +101,7 @@ nptelhrd <a href="https://www.youtube.com/c/iit">Playlists</a><br>
             <tr>
                 <td rowspan=2 align=center>
 Neso Academy <a href="https://www.youtube.com/user/nesoacademy">Playlists</a><br>
-<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/neso%20academy.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Neso%20Academy.jpg" width="40%">
                 </td>
                 <td><a href="https://www.youtube.com/playlist?list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3">Discrete Mathematics</a></td>
                 <td align="center">5</td>
@@ -141,7 +141,7 @@ mycodeschool <a href="https://www.youtube.com/user/mycodeschool">Playlists</a><b
             <tr>
                 <td rowspan=6 align=center>
 Gate Lectures by Ravindrababu Ravula <a href="https://www.youtube.com/channel/UCJjC1hn78yZqTf0vdTC6wAQ">Playlists</a><br>
-<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/gate%20lectures%20by%20ravindrababu%20ravula.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Gate%20Lectures%20by%20Ravindrababu%20Ravula.jpg" width="40%">
                 </td>
                 <td><a href="https://www.youtube.com/playlist?list=PLEbnTDJUr_IeHYw_sfBOJ6gk5pie0yP-0">Algorithms and Data structures</a></td>
                 <td align="center">5</td>
@@ -169,7 +169,7 @@ Gate Lectures by Ravindrababu Ravula <a href="https://www.youtube.com/channel/UC
             <tr>
                 <td rowspan=3 align=center>
 Gate Smashers <a href="https://www.youtube.com/c/GateSmashers">Playlists</a><br>
-<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/gate%20smashers.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Gate%20Smashers.jpg" width="40%">
                 </td>
                 <td><a href="https://www.youtube.com/playlist?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3">Discrete Mathematics</a></td>
                 <td align="center">5</td>
@@ -185,7 +185,7 @@ Gate Smashers <a href="https://www.youtube.com/c/GateSmashers">Playlists</a><br>
             <tr>
                 <td rowspan=2 align=center>
 Education 4u <a href="https://www.youtube.com/channel/UCKS34cSMNaXaySe2xgXH-3A">Playlists</a><br>
-<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/education%204u.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Education%204u.jpg" width="40%">
                 </td>
                 <td><a href="https://www.youtube.com/playlist?list=PLrjkTql3jnm8ikiQIeIHrMYCaBfkBkfYR">Data Structures (DS)</a></td>
                 <td align="center">15</td>
@@ -196,8 +196,8 @@ Education 4u <a href="https://www.youtube.com/channel/UCKS34cSMNaXaySe2xgXH-3A">
             </tr>
             <tr>
                 <td rowspan=2 align=center>
-Jenny's lectures CS/IT NET&JRF <a href="https://www.youtube.com/c/JennyslecturesCSITNETJRF">Playlists</a><br>
-<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/jenny's%20lectures%20cs/it%20net&jrf.jpg" width="40%">
+Jennys lectures CS-IT NET&JRF <a href="https://www.youtube.com/c/JennyslecturesCSITNETJRF">Playlists</a><br>
+<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Jennys%20lectures%20CS-IT%20NET&JRF.jpg" width="40%">
                 </td>
                 <td><a href="https://www.youtube.com/playlist?list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU">Data Structures and Algorithms</a></td>
                 <td align="center">40</td>
@@ -209,7 +209,7 @@ Jenny's lectures CS/IT NET&JRF <a href="https://www.youtube.com/c/Jennyslectures
             <tr>
                 <td rowspan=4 align=center>
 Easy Engineering Classes <a href="https://www.youtube.com/c/EasyEngineeringClasses">Playlists</a><br>
-<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/easy%20engineering%20classes.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Easy%20Engineering%20Classes.jpg" width="40%">
                 </td>
                 <td><a href="https://www.youtube.com/playlist?list=PLV8vIYTIdSnb0_n0G30-i6Mm0r_XT5_Z8">Algorithm Design and Analysis</a></td>
                 <td align="center">3</td>
@@ -229,7 +229,7 @@ Easy Engineering Classes <a href="https://www.youtube.com/c/EasyEngineeringClass
             <tr>
                 <td rowspan=8 align=center>
 KNOWLEDGE GATE <a href="https://www.youtube.com/c/KNOWLEDGEGATE_kg">Playlists</a><br>
-<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/knowledge%20gate.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/KNOWLEDGE%20GATE.jpg" width="40%">
                 </td>
                 <td><a href="https://www.youtube.com/playlist?list=PLmXKhU9FNesTSqP8hWDncxpCj8a4uzmu7">3.1 – Set Theory | Discrete Mathematics</a></td>
                 <td align="center">1</td>
@@ -265,7 +265,7 @@ KNOWLEDGE GATE <a href="https://www.youtube.com/c/KNOWLEDGEGATE_kg">Playlists</a
             <tr>
                 <td rowspan=10 align=center>
 GeeksforGeeks <a href="https://www.youtube.com/c/GeeksforGeeksVideos">Playlists</a><br>
-<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/geeksforgeeks.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/GeeksforGeeks.jpg" width="40%">
                 </td>
                 <td><a href="https://www.youtube.com/playlist?list=PLqM7alHXFySGbXhWx7sBJEwY2DnhDjmxm">Dynamic Programming | Algorithms & Data Structures</a></td>
                 <td align="center">3</td>
@@ -309,7 +309,7 @@ GeeksforGeeks <a href="https://www.youtube.com/c/GeeksforGeeksVideos">Playlists<
             <tr>
                 <td rowspan=3 align=center>
 Sundeep Saradhi Kanthety <a href="https://www.youtube.com/c/SundeepSaradhi">Playlists</a><br>
-<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/sundeep%20saradhi%20kanthety.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Sundeep%20Saradhi%20Kanthety.jpg" width="40%">
                 </td>
                 <td><a href="https://www.youtube.com/playlist?list=PLLOxZwkBK52Akgqf4oSWPOQO9ROWS_9rc">DATA STRUCTURES</a></td>
                 <td align="center">20</td>
@@ -325,7 +325,7 @@ Sundeep Saradhi Kanthety <a href="https://www.youtube.com/c/SundeepSaradhi">Play
             <tr>
                 <td rowspan=2 align=center>
 5 Minutes Engineering <a href="https://www.youtube.com/c/5MinutesEngineering">Playlists</a><br>
-<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/5%20minutes%20engineering.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/5%20Minutes%20Engineering.jpg" width="40%">
                 </td>
                 <td><a href="https://www.youtube.com/playlist?list=PLYwpaL_SFmcDKuvj-wIgDnHA5JTfUwrHv">Discrete Mathematics</a></td>
                 <td align="center">1</td>
@@ -337,7 +337,7 @@ Sundeep Saradhi Kanthety <a href="https://www.youtube.com/c/SundeepSaradhi">Play
             <tr>
                 <td rowspan=4 align=center>
 Tushar Roy - Coding Made Simple <a href="https://www.youtube.com/user/tusharroy2525">Playlists</a><br>
-<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/tushar%20roy%20-%20coding%20made%20simple.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Tushar%20Roy%20-%20Coding%20Made%20Simple.jpg" width="40%">
                 </td>
                 <td><a href="https://www.youtube.com/playlist?list=PLrmLmBdmIlpv_jNDXtJGYTPNQ2L1gdHxu">Binary Tree</a></td>
                 <td align="center">10</td>
@@ -357,7 +357,7 @@ Tushar Roy - Coding Made Simple <a href="https://www.youtube.com/user/tusharroy2
             <tr>
                 <td rowspan=8 align=center>
 Back To Back SWE <a href="https://www.youtube.com/c/BackToBackSWE">Playlists</a><br>
-<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/back%20to%20back%20swe.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Back%20To%20Back%20SWE.jpg" width="40%">
                 </td>
                 <td><a href="https://www.youtube.com/playlist?list=PLiQ766zSC5jOuk-QnjvTv7E8wqOTQ-Ic9">Time and Space Complexity</a></td>
                 <td align="center">1</td>
@@ -393,7 +393,7 @@ Back To Back SWE <a href="https://www.youtube.com/c/BackToBackSWE">Playlists</a>
             <tr>
                 <td rowspan=2 align=center>
 Simple Snippets <a href="https://www.youtube.com/c/SimpleSnippets">Playlists</a><br>
-<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/simple%20snippets.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Simple%20Snippets.jpg" width="40%">
                 </td>
                 <td><a href="https://www.youtube.com/playlist?list=PLIY8eNdw5tW_zX3OCzX7NJ8bL1p6pWfgG">Data Structures and Algorithms with C++ Practical Implementation</a></td>
                 <td align="center">15</td>
@@ -405,7 +405,7 @@ Simple Snippets <a href="https://www.youtube.com/c/SimpleSnippets">Playlists</a>
             <tr>
                 <td rowspan=4 align=center>
 TheTrevTutor <a href="https://www.youtube.com/c/Trevtutor">Playlists</a><br>
-<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/thetrevtutor.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/TheTrevTutor.jpg" width="40%">
                 </td>
                 <td><a href="https://www.youtube.com/playlist?list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz">Discrete Math 1</a></td>
                 <td align="center">15</td>
@@ -423,41 +423,9 @@ TheTrevTutor <a href="https://www.youtube.com/c/Trevtutor">Playlists</a><br>
                 <td align="center">10</td>
             </tr>
             <tr>
-                <td rowspan=7 align=center>
-Back To Back SWE <a href="https://www.youtube.com/c/BackToBackSWE">Playlists</a><br>
-<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/back%20to%20back%20swe.jpg" width="40%">
-                </td>
-                <td><a href="https://www.youtube.com/playlist?list=PLiQ766zSC5jM2OKVr8sooOuGgZkvnOCTI">Dynamic Programming, Recursion, & Backtracking</a></td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.youtube.com/playlist?list=PLiQ766zSC5jPjqhrp9VWhvTcR0jwF1-Km">Stacks & Queues</a></td>
-                <td align="center">1</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.youtube.com/playlist?list=PLiQ766zSC5jND9vxch5-zT7GuMigiWaV_">Trees, Binary Trees, & Binary Search Trees</a></td>
-                <td align="center">3</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.youtube.com/playlist?list=PLiQ766zSC5jMEpcGL0nSkfDM3paBP5FOE">Linked Lists & Hashtables</a></td>
-                <td align="center">3</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.youtube.com/playlist?list=PLiQ766zSC5jNlilqsJSiVcvIMxTdMlJbl">Graphs, Greedy Algorithms, & Other</a></td>
-                <td align="center">3</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.youtube.com/playlist?list=PLiQ766zSC5jN42O1DBalnkom5y2LXtnnK">Arrays, Primitives, & Strings</a></td>
-                <td align="center">5</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.youtube.com/playlist?list=PLiQ766zSC5jMZgWWdqy_6TpLivRGQaFD-">Sorting, Searching, & Heaps</a></td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
                 <td rowspan=5 align=center>
 Unacademy Computer Science <a href="https://www.youtube.com/channel/UCFWCFYvqnAMT-jcCqTp_SlA">Playlists</a><br>
-<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/unacademy%20computer%20science.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Unacademy%20Computer%20Science.jpg" width="40%">
                 </td>
                 <td><a href="https://www.youtube.com/playlist?list=PLG9aCp4uE-s0W16umpGQZO686g8LgqsBe">ETCS 209 Data Structure (English+Hindi)</a></td>
                 <td align="center">5</td>
@@ -481,7 +449,7 @@ Unacademy Computer Science <a href="https://www.youtube.com/channel/UCFWCFYvqnAM
             <tr>
                 <td rowspan=15 align=center>
 WilliamFiset <a href="https://www.youtube.com/c/WilliamFiset-videos">Playlists</a><br>
-<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/williamfiset.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/WilliamFiset.jpg" width="40%">
                 </td>
                 <td><a href="https://www.youtube.com/playlist?list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P">Graph Theory Playlist</a></td>
                 <td align="center">10</td>
@@ -545,7 +513,7 @@ WilliamFiset <a href="https://www.youtube.com/c/WilliamFiset-videos">Playlists</
             <tr>
                 <td rowspan=8 align=center>
 Knowledge Center <a href="https://www.youtube.com/c/KnowledgeCenter">Playlists</a><br>
-<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/knowledge%20center.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Knowledge%20Center.jpg" width="40%">
                 </td>
                 <td><a href="https://www.youtube.com/playlist?list=PL1w8k37X_6L_M7IBbrygh_OPZlpaQ_49a">Discrete Mathematics (A to Z)</a></td>
                 <td align="center">3</td>
@@ -581,7 +549,7 @@ Knowledge Center <a href="https://www.youtube.com/c/KnowledgeCenter">Playlists</
             <tr>
                 <td rowspan=22 align=center>
 TECH DOSE <a href="https://www.youtube.com/c/TECHDOSE4u">Playlists</a><br>
-<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/tech%20dose.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/TECH%20DOSE.jpg" width="40%">
                 </td>
                 <td><a href="https://www.youtube.com/playlist?list=PLEJXowNB4kPxWxRGSSn4qLdZm0h_XHqzt">Hashing Full Course</a></td>
                 <td align="center">3</td>
@@ -673,7 +641,7 @@ TECH DOSE <a href="https://www.youtube.com/c/TECHDOSE4u">Playlists</a><br>
             <tr>
                 <td rowspan=10 align=center>
 Vivekanand Khyade - Algorithm Every Day <a href="https://www.youtube.com/user/vivekanandkhyade">Playlists</a><br>
-<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/vivekanand%20khyade%20-%20algorithm%20every%20day.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Vivekanand%20Khyade%20-%20Algorithm%20Every%20Day.jpg" width="40%">
                 </td>
                 <td><a href="https://www.youtube.com/playlist?list=PLeIMaH7i8JDh43iAYY_bKJRbAQCwmIqhS">CodeWithMe ( Linked List Series )</a></td>
                 <td align="center">3</td>
@@ -717,7 +685,7 @@ Vivekanand Khyade - Algorithm Every Day <a href="https://www.youtube.com/user/vi
             <tr>
                 <td rowspan=5 align=center>
 Online Lectures in Nepali <a href="https://www.youtube.com/channel/UCvc1Xg1qWSfQptoCEq13pEA">Playlists</a><br>
-<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/online%20lectures%20in%20nepali.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Online%20Lectures%20in%20Nepali.jpg" width="40%">
                 </td>
                 <td><a href="https://www.youtube.com/playlist?list=PLtI58n-2bhFCV-R9gMklXLQ_9T2soXE65">Matrix</a></td>
                 <td align="center">3</td>
@@ -741,7 +709,7 @@ Online Lectures in Nepali <a href="https://www.youtube.com/channel/UCvc1Xg1qWSfQ
             <tr>
                 <td rowspan=12 align=center>
 Sarada Herke <a href="https://www.youtube.com/c/SaradaHerke">Playlists</a><br>
-<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/sarada%20herke.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Sarada%20Herke.jpg" width="40%">
                 </td>
                 <td><a href="https://www.youtube.com/playlist?list=PLGxuz-nmYlQOiIOriTXMEoGoybUC3Jmrn">Graph Theory part-1</a></td>
                 <td align="center">1</td>
@@ -793,7 +761,7 @@ Sarada Herke <a href="https://www.youtube.com/c/SaradaHerke">Playlists</a><br>
             <tr>
                 <td rowspan=13 align=center>
 Byte by Byte <a href="https://www.youtube.com/c/ByteByByte">Playlists</a><br>
-<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/byte%20by%20byte.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Byte%20by%20Byte.jpg" width="40%">
                 </td>
                 <td><a href="https://www.youtube.com/playlist?list=PLNmW52ef0uwsjnM06LweaYEZr-wjPKBnj">Coding Interview Questions</a></td>
                 <td align="center">15</td>
@@ -849,7 +817,7 @@ Byte by Byte <a href="https://www.youtube.com/c/ByteByByte">Playlists</a><br>
             <tr>
                 <td rowspan=3 align=center>
 CSE GURUS <a href="https://www.youtube.com/c/CSEGURUS">Playlists</a><br>
-<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/cse%20gurus.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/CSE%20GURUS.jpg" width="40%">
                 </td>
                 <td><a href="https://www.youtube.com/playlist?list=PLYT7YDstBQmHr7eumHSrdo1aTMpqrpPDa">Design and Analysis of Algorithms</a></td>
                 <td align="center">10</td>
@@ -865,7 +833,7 @@ CSE GURUS <a href="https://www.youtube.com/c/CSEGURUS">Playlists</a><br>
             <tr>
                 <td rowspan=12 align=center>
 Nargish Gupta <a href="https://www.youtube.com/c/NargishGupta">Playlists</a><br>
-<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/nargish%20gupta.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Nargish%20Gupta.jpg" width="40%">
                 </td>
                 <td><a href="https://www.youtube.com/playlist?list=PLPzfPcir5uPQ6LrB421cvMvcF3EcsGrr5">Data Structures by Nargish Gupta</a></td>
                 <td align="center">20</td>
@@ -917,7 +885,7 @@ Nargish Gupta <a href="https://www.youtube.com/c/NargishGupta">Playlists</a><br>
             <tr>
                 <td rowspan=6 align=center>
 Wrath of Math <a href="https://www.youtube.com/c/WrathofMath">Playlists</a><br>
-<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/wrath%20of%20math.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Wrath%20of%20Math.jpg" width="40%">
                 </td>
                 <td><a href="https://www.youtube.com/playlist?list=PLztBpqftvzxXBhbYxoaZJmnZF6AUQr1mH">Graph Theory</a></td>
                 <td align="center">20</td>
@@ -945,7 +913,7 @@ Wrath of Math <a href="https://www.youtube.com/c/WrathofMath">Playlists</a><br>
             <tr>
                 <td rowspan=16 align=center>
 Code Ncode <a href="https://www.youtube.com/channel/UC0zvY3yIBQTrSutsV-4yscQ">Playlists</a><br>
-<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/code%20ncode.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Code%20Ncode.jpg" width="40%">
                 </td>
                 <td><a href="https://www.youtube.com/playlist?list=PL2q4fbVm1Ik6DCzm9XZJbNwyHtHGclcEh">Graph Theory Course : Part 1</a></td>
                 <td align="center">10</td>
@@ -1029,7 +997,7 @@ itechnica <a href="https://www.youtube.com/c/itechnica">Playlists</a><br>
             <tr>
                 <td rowspan=2 align=center>
 Computer Shastra <a href="https://www.youtube.com/channel/UCtd_5pf66ceyAtj9dpF4rfQ">Playlists</a><br>
-<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/computer%20shastra.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Computer%20Shastra.jpg" width="40%">
                 </td>
                 <td><a href="https://www.youtube.com/playlist?list=PLz_PatIPLDkBLnPxDiBjauB1wdNHPyxty">Data Structures & Algorithms|Animated Examples #ComputerShastra</a></td>
                 <td align="center">25</td>
@@ -1041,7 +1009,7 @@ Computer Shastra <a href="https://www.youtube.com/channel/UCtd_5pf66ceyAtj9dpF4r
             <tr>
                 <td rowspan=4 align=center>
 Math at Andrews <a href="https://www.youtube.com/c/MathatAndrews">Playlists</a><br>
-<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/math%20at%20andrews.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Math%20at%20Andrews.jpg" width="40%">
                 </td>
                 <td><a href="https://www.youtube.com/playlist?list=PLOROtRhtegr6eSjw4_iRCjgQSYS8fpJM3">Graph Theory</a></td>
                 <td align="center">3</td>
@@ -1061,7 +1029,7 @@ Math at Andrews <a href="https://www.youtube.com/c/MathatAndrews">Playlists</a><
             <tr>
                 <td rowspan=5 align=center>
 OnlineTeacher <a href="https://www.youtube.com/channel/UCVMu7lq-6wjIMz3g49EUUWQ">Playlists</a><br>
-<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/onlineteacher.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/OnlineTeacher.jpg" width="40%">
                 </td>
                 <td><a href="https://www.youtube.com/playlist?list=PL-5M5AGX3PxGTreIc_SgjYi1_Ap828eGW">DESIGN AND ANALYSIS OF ALGORITHM</a></td>
                 <td align="center">15</td>
@@ -1084,8 +1052,8 @@ OnlineTeacher <a href="https://www.youtube.com/channel/UCVMu7lq-6wjIMz3g49EUUWQ"
             </tr>
             <tr>
                 <td rowspan=5 align=center>
-Exam Aasaan Hai !!! <a href="https://www.youtube.com/c/ExamAasaanHai">Playlists</a><br>
-<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/exam%20aasaan%20hai%20!!!.jpg" width="40%">
+Exam Aasaan Hai <a href="https://www.youtube.com/c/ExamAasaanHai">Playlists</a><br>
+<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Exam%20Aasaan%20Hai.jpg" width="40%">
                 </td>
                 <td><a href="https://www.youtube.com/playlist?list=PLr3OnN7KdzegYkdHznALvw6Su-nW2um61">MCS-033: Graph Theory</a></td>
                 <td align="center">10</td>
@@ -1109,7 +1077,7 @@ Exam Aasaan Hai !!! <a href="https://www.youtube.com/c/ExamAasaanHai">Playlists<
             <tr>
                 <td rowspan=5 align=center>
 Easy Theory <a href="https://www.youtube.com/c/EasyTheory">Playlists</a><br>
-<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/easy%20theory.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Easy%20Theory.jpg" width="40%">
                 </td>
                 <td><a href="https://www.youtube.com/playlist?list=PLylTVsqZiRXNArM--1hbcrlJyZn7EpNJU">Algorithms - Easy Theory</a></td>
                 <td align="center">5</td>
@@ -1133,7 +1101,7 @@ Easy Theory <a href="https://www.youtube.com/c/EasyTheory">Playlists</a><br>
             <tr>
                 <td rowspan=14 align=center>
 Dinesh Varyani <a href="https://www.youtube.com/c/hubberspot/playlists">Playlists</a><br>
-<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/dinesh%20varyani.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Dinesh%20Varyani.jpg" width="40%">
                 </td>
                 <td><a href="https://www.youtube.com/playlist?list=PL6Zs6LgrJj3uyNihSkIq9QcNMylpR_9ba">Hashing Data Structures</a></td>
                 <td align="center">5</td>
@@ -1209,7 +1177,7 @@ codebix <a href="https://www.youtube.com/channel/UCZJRtZh8O6FKWH49YLapAbQ">Playl
             <tr>
                 <td rowspan=14 align=center>
 Coding Simplified <a href="https://www.youtube.com/c/CodingSimplified">Playlists</a><br>
-<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/coding%20simplified.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Coding%20Simplified.jpg" width="40%">
                 </td>
                 <td><a href="https://www.youtube.com/playlist?list=PLt4nG7RVVk1jcoLFb1gn0EylZ381IgrNq">Dynamic Programming Solutions</a></td>
                 <td align="center">10</td>
