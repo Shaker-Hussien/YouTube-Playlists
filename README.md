@@ -53,21 +53,25 @@ Data Science Playlists for computer science students, which including the follow
 #### - [Data Storage and Retrieval](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Data-Science-Playlists/README.md) Playlists
 #### - [Big Data and Data Engineering](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Data-Science-Playlists/README.md) Playlists
 
-<img align="right" width="80" height="55" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/operation-research-department.jpg">
 
 ## [`Operation Research`](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Operation-Research-Playlists/README.md) Playlists
 Operation Research Playlists for computer science students, which including the following main topics:
 
-#### - [Data Analysis and Visualization](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Operation-Research-Playlists/README.md) Playlists
-#### - [Machine Learning and Data Mining](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Operation-Research-Playlists/README.md) Playlists
+#### - [Linear and Nonlinear Programming](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Operation-Research-Playlists/README.md) Playlists
 #### - [Operation Research and Decision Theory](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Operation-Research-Playlists/README.md) Playlists
-#### - [Network Modeling and Optimization](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Operation-Research-Playlists/README.md) Playlists
+#### - [Machine Learning and Data Mining](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Operation-Research-Playlists/README.md) Playlists
+#### - [Dynamic Programming and Stochastic Models](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Operation-Research-Playlists/README.md) Playlists
 #### - [Reinforcement Learning](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Operation-Research-Playlists/README.md) Playlists
+#### - [Project Management](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Operation-Research-Playlists/README.md) Playlists
 
-<img align="right" width="80" height="55" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/bioinformatics-department.jpg">
 
 ## [`Bioinformatics`](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Bioinformatics-Playlists/README.md) Playlists
 Bioinformatics Playlists for computer science students, which including the following main topics:
 
-#### - [Data Analysis and Visualization](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Bioinformatics-Playlists/README.md) Playlists
-#### - [Machine Learning and Data Mining](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Bioinformatics-Playlists/README.md) Playlists
+#### - [Introductory to Biology](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Bioinformatics-Playlists/README.md) Playlists
+#### - [Biochemistry and Immunology](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Bioinformatics-Playlists/README.md) Playlists
+#### - [Proteins Biology and DNA](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Bioinformatics-Playlists/README.md) Playlists
+#### - [Genomic Data Science](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Bioinformatics-Playlists/README.md) Playlists
+#### - [Biotechnology and Computational Biology](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Bioinformatics-Playlists/README.md) Playlists
