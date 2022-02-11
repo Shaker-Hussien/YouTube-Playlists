@@ -46,7 +46,7 @@ Artificial Intelligence Playlists for computer science students, which including
 Data Science Playlists for computer science students, which including the following main topics:
 
 #### - [Data Analysis and Visualization](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Data-Science-Playlists/README.md) Playlists
-#### - [Machine Learning and Data Mining](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Data-Science-Playlists/README.md) Playlists
+#### - [Data Science](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Data-Science-Playlists/README.md) Playlists
 #### - [Natural Language Processing and Text Mining](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Data-Science-Playlists/README.md) Playlists
 #### - [Business Intelligence](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Data-Science-Playlists/README.md) Playlists
 #### - [Data Storage and Retrieval](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Data-Science-Playlists/README.md) Playlists
