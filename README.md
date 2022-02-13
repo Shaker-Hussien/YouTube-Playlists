@@ -67,5 +67,5 @@ Bioinformatics Playlists for computer science students, which including the foll
 #### - [Introductory to Biology](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Bioinformatics-Specializations/README.md) Specializations
 #### - [Next Generation Sequencing](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Bioinformatics-Specializations/README.md) Specializations
 #### - [Computational Biology](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Bioinformatics-Specializations/README.md) Specializations
-#### - [Integraty Bioinformatics](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Bioinformatics-Specializations/README.md) Specializations
+#### - [Integrative Bioinformatics](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Bioinformatics-Specializations/README.md) Specializations
 #### - [Drug Design](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Bioinformatics-Specializations/README.md) Specializations
