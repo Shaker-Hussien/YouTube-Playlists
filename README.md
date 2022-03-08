@@ -34,7 +34,7 @@ Artificial Intelligence Playlists for computer science students, which including
 #### - [Artificial Intelligence](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Artificial-Intelligence-Playlists/README.md) Playlists
 #### - [Machine Learning and Data Mining](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Artificial-Intelligence-Playlists/README.md) Playlists
 #### - [Neural Networks and Deep Learning](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Artificial-Intelligence-Playlists/README.md) Playlists
-#### - [Signal Processing and Multimedia Data Compression](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Artificial-Intelligence-Playlists/README.md) Playlists
+#### - [Signal Processing and Data Compression](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Artificial-Intelligence-Playlists/README.md) Playlists
 #### - [Image Processing and Computer Vision](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Artificial-Intelligence-Playlists/README.md) Playlists
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/data-science-department.jpg">
