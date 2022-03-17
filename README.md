@@ -11,7 +11,7 @@ Computer Science Playlists for computer science students, which including the fo
 
 #### - [Programming Languages and Object Oriented](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Computer-Science-Playlists/README.md) Playlists
 #### - [Mathematics and Probability](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Computer-Science-Playlists/README.md) Playlists
-#### - [Data Structures and Algorithms Analysis](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Computer-Science-Playlists/README.md) Playlists
+#### - [Data Structures and Algorithms](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Computer-Science-Playlists/README.md) Playlists
 #### - [Operating Systems and Parallel Computing](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Computer-Science-Playlists/README.md) Playlists
 #### - [Theory of Computation and Compiler Design](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Computer-Science-Playlists/README.md) Playlists
 
