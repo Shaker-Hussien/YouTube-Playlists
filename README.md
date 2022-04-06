@@ -1,7 +1,7 @@
 <img align="right" width="80" height="55" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg">
 
 # [YouTube](https://www.youtube.com/) Playlists
-YouTube playlists for computer science students.
+YouTube Playlists for computer science students.
 
 <br>
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/computer-science-department.jpg">
