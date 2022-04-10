@@ -23,8 +23,8 @@ Software Engineering Playlists for computer science students, which including th
 #### - [Software Engineering](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Software-Engineering-Playlists/README.md) Playlists
 #### - [Distributed Systems and Cloud Computing](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Software-Engineering-Playlists/README.md) Playlists
 #### - [Database Systems and Warehousing](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Software-Engineering-Playlists/README.md) Playlists
-#### - [Web/Mobile/Game Development](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Software-Engineering-Playlists/README.md) Playlists
 #### - [Continuous Delivery and DevOps](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Software-Engineering-Playlists/README.md) Playlists
+#### - [Web/Mobile/Game Development](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Software-Engineering-Playlists/README.md) Playlists
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/artificial-intelligence-department.jpg">
 
