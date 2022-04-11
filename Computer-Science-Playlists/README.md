@@ -14,7 +14,7 @@
 
 <br><br>
 
-## [Programming Languages and Object Oriented](https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Software-Engineering-Playlists/Programming-Languages-and-Object-Oriented-Playlists/README.md) Playlists
+## [Programming Languages and Object Oriented](https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/Programming-Languages-and-Object-Oriented-Playlists/README.md) Playlists
 
 <table>
     <tbody>
