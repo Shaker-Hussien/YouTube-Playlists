@@ -129,10 +129,10 @@
 <table>
     <tbody>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/Data-Structures-and-Algorithms-Playlists/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/Data-Structures-and-Algorithms-Playlists/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/Data-Structures-and-Algorithms-Playlists/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/Data-Structures-and-Algorithms-Playlists/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/Data-Structures-and-Algorithms-Analysis-Playlists/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/Data-Structures-and-Algorithms-Analysis-Playlists/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/Data-Structures-and-Algorithms-Analysis-Playlists/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/Data-Structures-and-Algorithms-Analysis-Playlists/README.md">Template</a></td>
         </tr>
         <tr>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/image.jpg" width="70%"></img></td>
@@ -141,10 +141,10 @@
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/image.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/Data-Structures-and-Algorithms-Playlists/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/Data-Structures-and-Algorithms-Playlists/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/Data-Structures-and-Algorithms-Playlists/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/Data-Structures-and-Algorithms-Playlists/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/Data-Structures-and-Algorithms-Analysis-Playlists/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/Data-Structures-and-Algorithms-Analysis-Playlists/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/Data-Structures-and-Algorithms-Analysis-Playlists/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/Data-Structures-and-Algorithms-Analysis-Playlists/README.md">Template</a></td>
         </tr>
         <tr>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/image.jpg" width="70%"></img></td>
@@ -153,10 +153,10 @@
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/image.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/Data-Structures-and-Algorithms-Playlists/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/Data-Structures-and-Algorithms-Playlists/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/Data-Structures-and-Algorithms-Playlists/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/Data-Structures-and-Algorithms-Playlists/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/Data-Structures-and-Algorithms-Analysis-Playlists/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/Data-Structures-and-Algorithms-Analysis-Playlists/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/Data-Structures-and-Algorithms-Analysis-Playlists/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/Data-Structures-and-Algorithms-Analysis-Playlists/README.md">Template</a></td>
         </tr>
         <tr>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/image.jpg" width="70%"></img></td>
@@ -165,10 +165,10 @@
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/image.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/Data-Structures-and-Algorithms-Playlists/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/Data-Structures-and-Algorithms-Playlists/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/Data-Structures-and-Algorithms-Playlists/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/Data-Structures-and-Algorithms-Playlists/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/Data-Structures-and-Algorithms-Analysis-Playlists/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/Data-Structures-and-Algorithms-Analysis-Playlists/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/Data-Structures-and-Algorithms-Analysis-Playlists/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/Data-Structures-and-Algorithms-Analysis-Playlists/README.md">Template</a></td>
         </tr>
         <tr>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/image.jpg" width="70%"></img></td>
