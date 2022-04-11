@@ -9,7 +9,7 @@
   * [Programming Languages and Object Oriented Playlists](#Programming-Languages-and-Object-Oriented-Playlists)
   * [Mathematics and Probability Playlists](#Mathematics-and-Probability-Playlists)
   * [Data Structures and Algorithms Playlists](#Data-Structures-and-Algorithms-Playlists)
-  * [Operating Systems and Parallel Computing Playlists](#Operating Systems and Parallel Computing Playlists)
+  * [Operating Systems and Parallel Computing Playlists](#Operating-Systems-and-Parallel-Computing-Playlists)
   * [Theory of Computation and Compiler Design Playlists](#Theory-of-Computation-and-Compiler-Design-Playlists)
 
 <br><br>
