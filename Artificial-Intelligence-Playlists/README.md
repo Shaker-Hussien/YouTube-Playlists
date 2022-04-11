@@ -14,7 +14,7 @@
 
 <br><br>
 
-## [Artificial Intelligence Playlists](https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/Artificial-Intelligence-Playlists/README.md) Playlists
+## [Artificial Intelligence](https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/Artificial-Intelligence-Playlists/README.md) Playlists
 
 <table>
     <tbody>
@@ -69,7 +69,7 @@
     </tbody>
 </table>
 
-## [Machine Learning and Data Mining Playlists](https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/Machine-Learning-and-Data-Mining-Playlists/README.md) Playlists
+## [Machine Learning and Data Mining](https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/Machine-Learning-and-Data-Mining-Playlists/README.md) Playlists
 
 <table>
     <tbody>
@@ -124,7 +124,7 @@
     </tbody>
 </table>
 
-## [Neural Networks and Deep Learning Playlists](https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/Neural-Networks-and-Deep-Learning-Playlists/README.md) Playlists
+## [Neural Networks and Deep Learning](https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/Neural-Networks-and-Deep-Learning-Playlists/README.md) Playlists
 
 <table>
     <tbody>
@@ -179,7 +179,7 @@
     </tbody>
 </table>
 
-## [Signal Processing and Data Compression Playlists](https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/Signal-Processing-and-Data-Compression-Playlists/README.md) Playlists
+## [Signal Processing and Data Compression](https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/Signal-Processing-and-Data-Compression-Playlists/README.md) Playlists
 
 <table>
     <tbody>
@@ -234,7 +234,7 @@
     </tbody>
 </table>
 
-## [Image Processing and Computer Vision Playlists](https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/Image-Processing-and-Computer-Vision-Playlists/README.md) Playlists
+## [Image Processing and Computer Vision](https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/Image-Processing-and-Computer-Vision-Playlists/README.md) Playlists
 
 <table>
     <tbody>
