@@ -6,7 +6,7 @@
 <img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/agenda.jpg">
 
 ## Table of Contents
-  * [Artificial Intelligence Playlists](#Artificial-Intelligence-Playlists)
+  * [Artificial Intelligence Playlists](#Artificial-Intelligence-Playlists-1)
   * [Machine Learning and Data Mining Playlists](#Machine-Learning-and-Data-Mining-Playlists)
   * [Neural Networks and Deep Learning Playlists](#Neural-Networks-and-Deep-Learning-Playlists)
   * [Signal Processing and Data Compression Playlists](#Signal-Processing-and-Data-Compression-Playlists)
