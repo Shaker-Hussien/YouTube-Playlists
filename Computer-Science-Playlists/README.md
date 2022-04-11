@@ -124,7 +124,7 @@
     </tbody>
 </table>
 
-## [Data Structures and Algorithms](https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/Data-Structures-and-Algorithms-Playlists/README.md) Playlists
+## [Data Structures and Algorithms](https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/Data-Structures-and-Algorithms-Analysis-Playlists/README.md) Playlists
 
 <table>
     <tbody>
