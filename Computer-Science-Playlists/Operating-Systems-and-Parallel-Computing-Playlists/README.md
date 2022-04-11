@@ -257,3 +257,77 @@
 		</tr>
 	</tbody>
 </table>
+
+<h3>-  Parallel Programming</h3>
+<table>
+	<thead>
+		<tr>
+			<th width="30%">Channel</th>
+			<th width="70%">Playlist</th>
+			<th>Videos</th>
+			<th>H</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td rowspan=1 align=center>nptelhrd</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLbMVogVj5nJQRvzENlvMKA9q70ScSRZBQ">Computer Science - Parallel Computing</a></td>
+			<td align="center">34</td>
+			<td align="center">30</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Udacity</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLAwxTw4SYaPm0z11jGTXRF7RuEEAgsIwH">Introduction to Parallel Programming</a></td>
+			<td align="center">39</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Udacity</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLAwxTw4SYaPnFKojVQrmyOGFCqHTxfdv2">Intro to Parallel Programming</a></td>
+			<td align="center">458</td>
+			<td align="center">15</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>5 Minutes Engineering</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLYwpaL_SFmcB73J5yO6uSFUycHJSA45O0">CUDA</a></td>
+			<td align="center">7</td>
+			<td align="center">1</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>5 Minutes Engineering</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLYwpaL_SFmcA1eJbqwvjKgsnT321hXRGx">High Performance Computing - Parallel Computing</a></td>
+			<td align="center">38</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Computer Science and Engineering</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLJ5C_6qdAvBFMAko9JTyDJDIt1W48Sxmg">Introduction to parallel Programming in Open MP</a></td>
+			<td align="center">37</td>
+			<td align="center">10</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>Carnegie Mellon Computer Architecture</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL5PHm2jkkXmh4cDkC3s1VBB7-njlgiG5d">Fall 2012 - 742 Parallel Computer Architecture</a></td>
+			<td align="center">24</td>
+			<td align="center">40</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>OpenMP</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLLX-Q6B8xqZ8n8bwjGdzBJ25X2utwnoEG">Introduction to OpenMP - Tim Mattson (Intel)</a></td>
+			<td align="center">27</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>cscsch</td>
+			<td><a href="https://www.youtube.com/playlist?list=PL1tk5lGm7zvQ-EzsiTZ6Xv1SxZs74epzg">High-Performance Computing with Python</a></td>
+			<td align="center">15</td>
+			<td align="center">5</td>
+		</tr>
+		<tr>
+			<td rowspan=1 align=center>CoffeeBeforeArch</td>
+			<td><a href="https://www.youtube.com/playlist?list=PLxNPSjHT5qvugVNYwtQwnvSQyvlbzAML3">Practical Parallelism in C++</a></td>
+			<td align="center">11</td>
+			<td align="center">3</td>
+		</tr>
+	</tbody>
+	</table>
