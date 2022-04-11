@@ -1,7 +1,5 @@
 <img align="right" width="100" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg">
 
-# Computer Science Playlists
-
 ## Programming Languages and Object Oriented Playlists
 
 <h3>-  Python, Object Oriented</h3>
