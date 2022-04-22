@@ -10,7 +10,7 @@
   * [Operation Research and Decision Theory Playlists](#Operation-Research-and-Decision-Theory-Playlists)
   * [Dynamic Programming and Stochastic Models Playlists](#Dynamic-Programming-and-Stochastic-Models-Playlists)
   * [Reinforcement Learning and Game Theory Playlists](#Reinforcement-Learning-and-Game-Theory-Playlists)
-  * [Systems Project Management Playlists](#Project-Management-Playlists)
+  * [Systems Project Management Playlists](#Systems-Project-Management-Playlists)
 
 <br><br>
 
