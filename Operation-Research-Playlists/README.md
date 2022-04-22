@@ -9,7 +9,7 @@
   * [Linear and Nonlinear Programming Playlists](#Linear-and-Nonlinear-Programming-Playlists)
   * [Operation Research and Decision Theory Playlists](#Operation-Research-and-Decision-Theory-Playlists)
   * [Dynamic Programming and Stochastic Models Playlists](#Dynamic-Programming-and-Stochastic-Models-Playlists)
-  * [Reinforcement Learning Playlists](#Reinforcement-Learning-Playlists)
+  * [Reinforcement Learning and Game Theory Playlists](#Reinforcement-Learning-and-Game-Theory-Playlists)
   * [Project Management Playlists](#Project-Management-Playlists)
 
 <br><br>
@@ -17,5 +17,5 @@
 ## [Linear and Nonlinear Programming]() Playlists
 ## [Operation Research and Decision Theory]() Playlists
 ## [Dynamic Programming and Stochastic Models]() Playlists
-## [Reinforcement Learning]() Playlists
+## [Reinforcement Learning and Game Theory]() Playlists
 ## [Project Management]() Playlists
