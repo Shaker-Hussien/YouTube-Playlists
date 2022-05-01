@@ -250,11 +250,11 @@
 <table>
     <tbody>
         <tr>
-<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science/Operating Systems and Parallel Computing Playlists/README.md">Template</a></td>
-<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science/Operating Systems and Parallel Computing Playlists/README.md">Template</a></td>
-<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science/Operating Systems and Parallel Computing Playlists/README.md">Template</a></td>
-<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science/Operating Systems and Parallel Computing Playlists/README.md">Template</a></td>
-<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science/Operating Systems and Parallel Computing Playlists/README.md">Template</a></td>
+<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science/Operating-Systems-and-Parallel-Computing/README.md">Template</a></td>
+<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science/Operating-Systems-and-Parallel-Computing/README.md">Template</a></td>
+<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science/Operating-Systems-and-Parallel-Computing/README.md">Template</a></td>
+<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science/Operating-Systems-and-Parallel-Computing/README.md">Template</a></td>
+<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science/Operating-Systems-and-Parallel-Computing/README.md">Template</a></td>
         </tr>
         <tr>
 <td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/image.jpg" width="70%"></img></td>
@@ -264,11 +264,11 @@
 <td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/image.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science/Operating Systems and Parallel Computing Playlists/README.md">Template</a></td>
-<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science/Operating Systems and Parallel Computing Playlists/README.md">Template</a></td>
-<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science/Operating Systems and Parallel Computing Playlists/README.md">Template</a></td>
-<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science/Operating Systems and Parallel Computing Playlists/README.md">Template</a></td>
-<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science/Operating Systems and Parallel Computing Playlists/README.md">Template</a></td>
+<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science/Operating-Systems-and-Parallel-Computing/README.md">Template</a></td>
+<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science/Operating-Systems-and-Parallel-Computing/README.md">Template</a></td>
+<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science/Operating-Systems-and-Parallel-Computing/README.md">Template</a></td>
+<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science/Operating-Systems-and-Parallel-Computing/README.md">Template</a></td>
+<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science/Operating-Systems-and-Parallel-Computing/README.md">Template</a></td>
         </tr>
         <tr>
 <td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/image.jpg" width="70%"></img></td>
@@ -278,11 +278,11 @@
 <td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/image.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science/Operating Systems and Parallel Computing Playlists/README.md">Template</a></td>
-<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science/Operating Systems and Parallel Computing Playlists/README.md">Template</a></td>
-<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science/Operating Systems and Parallel Computing Playlists/README.md">Template</a></td>
-<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science/Operating Systems and Parallel Computing Playlists/README.md">Template</a></td>
-<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science/Operating Systems and Parallel Computing Playlists/README.md">Template</a></td>
+<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science/Operating-Systems-and-Parallel-Computing/README.md">Template</a></td>
+<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science/Operating-Systems-and-Parallel-Computing/README.md">Template</a></td>
+<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science/Operating-Systems-and-Parallel-Computing/README.md">Template</a></td>
+<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science/Operating-Systems-and-Parallel-Computing/README.md">Template</a></td>
+<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science/Operating-Systems-and-Parallel-Computing/README.md">Template</a></td>
         </tr>
         <tr>
 <td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/image.jpg" width="70%"></img></td>
@@ -292,11 +292,11 @@
 <td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/image.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science/Operating Systems and Parallel Computing Playlists/README.md">Template</a></td>
-<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science/Operating Systems and Parallel Computing Playlists/README.md">Template</a></td>
-<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science/Operating Systems and Parallel Computing Playlists/README.md">Template</a></td>
-<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science/Operating Systems and Parallel Computing Playlists/README.md">Template</a></td>
-<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science/Operating Systems and Parallel Computing Playlists/README.md">Template</a></td>
+<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science/Operating-Systems-and-Parallel-Computing/README.md">Template</a></td>
+<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science/Operating-Systems-and-Parallel-Computing/README.md">Template</a></td>
+<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science/Operating-Systems-and-Parallel-Computing/README.md">Template</a></td>
+<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science/Operating-Systems-and-Parallel-Computing/README.md">Template</a></td>
+<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science/Operating-Systems-and-Parallel-Computing/README.md">Template</a></td>
         </tr>
         <tr>
 <td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/image.jpg" width="70%"></img></td>
@@ -306,11 +306,11 @@
 <td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/image.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science/Operating Systems and Parallel Computing Playlists/README.md">Template</a></td>
-<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science/Operating Systems and Parallel Computing Playlists/README.md">Template</a></td>
-<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science/Operating Systems and Parallel Computing Playlists/README.md">Template</a></td>
-<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science/Operating Systems and Parallel Computing Playlists/README.md">Template</a></td>
-<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science/Operating Systems and Parallel Computing Playlists/README.md">Template</a></td>
+<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science/Operating-Systems-and-Parallel-Computing/README.md">Template</a></td>
+<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science/Operating-Systems-and-Parallel-Computing/README.md">Template</a></td>
+<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science/Operating-Systems-and-Parallel-Computing/README.md">Template</a></td>
+<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science/Operating-Systems-and-Parallel-Computing/README.md">Template</a></td>
+<td align=center width="20%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science/Operating-Systems-and-Parallel-Computing/README.md">Template</a></td>
         </tr>
         <tr>
 <td align=center width="20%"><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/image.jpg" width="70%"></img></td>
