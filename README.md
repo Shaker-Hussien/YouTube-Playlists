@@ -44,7 +44,7 @@ Data Science Playlists for computer science students, which including the follow
 
 #### - [Data Science and Business Analytics](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Data-Science/README.md) Playlists
 #### - [Data Analysis and Visualization](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Data-Science/README.md) Playlists
-#### - [Business Intelligence](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Data-Science/README.md) Playlists
+#### - [Business Intelligence and Data Management](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Data-Science/README.md) Playlists
 #### - [Data Storage and Retrieval](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Data-Science/README.md) Playlists
 #### - [Data Engineering and Big Data](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Data-Science/README.md) Playlists
 
