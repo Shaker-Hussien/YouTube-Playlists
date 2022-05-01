@@ -8,7 +8,7 @@
 ## Table of Contents
   * [Data Science and Business Analytics Playlists](#Data-Science-and-Business-Analytics-Playlists)
   * [Data Analysis and Visualization Playlists](#Data-Analysis-and-Visualization-Playlists)
-  * [Business Intelligence Playlists](#Business-Intelligence-Playlists)
+  * [Business Intelligence and Data Management Playlists](#Business-Intelligence-and-Data-Management-Playlists)
   * [Data Storage and Retrieval Playlists](#Data-Storage-and-Retrieval-Playlists)
   * [Data Engineering and Big Data Playlists](#Data-Engineering-and-Big-Data-Playlists)
 
@@ -124,7 +124,7 @@
     </tbody>
 </table>
 
-## [Business Intelligence](https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md) Playlists
+## [Business Intelligence and Data Management](https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md) Playlists
 
 <table>
     <tbody>
