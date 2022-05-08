@@ -1,9 +1,10 @@
-<img align="right" width="100" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/org-logos/youtube.jpg">
+<img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/youtube.jpg"></img>
 
 # [YouTube](https://www.youtube.com/) Playlists
 YouTube Playlists for computer science students.
 
 <br>
+
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/computer-science-department.jpg">
 
 ## [`Computer Science`](https://github.com/cs-MohamedAyman/YouTube-Playlists/tree/master/Computer-Science/README.md) Playlists
