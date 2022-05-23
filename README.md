@@ -1,9 +1,9 @@
-<img align="right" width="200" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/technical-tutorials.jpg"></img>
+<img align="right" width="300" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/technical-tutorials.jpg"></img>
 
 # Technical Tutorials
 Technical Tutorials for computer science students.
 
-<br><br><br>
+<br><br><br><br><br><br><br>
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/computer-science-department.jpg">
 
