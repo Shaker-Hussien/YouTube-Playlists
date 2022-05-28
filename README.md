@@ -49,6 +49,17 @@ Data Science Tutorials for computer science students, which including the follow
 #### - [Data Storage and Retrieval](https://github.com/cs-MohamedAyman/Technical-Tutorials/tree/master/Data-Science/README.md) Tutorials
 #### - [Data Engineering and Big Data](https://github.com/cs-MohamedAyman/Technical-Tutorials/tree/master/Data-Science/README.md) Tutorials
 
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/bioinformatics-department.jpg">
+
+## [`Bioinformatics`](https://github.com/cs-MohamedAyman/Technical-Tutorials/tree/master/Bioinformatics/README.md) Tutorials
+Bioinformatics Tutorials for computer science students, which including the following main topics:
+
+#### - [Template](https://github.com/cs-MohamedAyman/Technical-Tutorials/tree/master/Bioinformatics/README.md) Tutorials
+#### - [Template](https://github.com/cs-MohamedAyman/Technical-Tutorials/tree/master/Bioinformatics/README.md) Tutorials
+#### - [Template](https://github.com/cs-MohamedAyman/Technical-Tutorials/tree/master/Bioinformatics/README.md) Tutorials
+#### - [Template](https://github.com/cs-MohamedAyman/Technical-Tutorials/tree/master/Bioinformatics/README.md) Tutorials
+#### - [Template](https://github.com/cs-MohamedAyman/Technical-Tutorials/tree/master/Bioinformatics/README.md) Tutorials
+
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/operation-research-department.jpg">
 
 ## [`Operation Research`](https://github.com/cs-MohamedAyman/Technical-Tutorials/tree/master/Operation-Research/README.md) Tutorials
@@ -59,10 +70,3 @@ Operation Research Tutorials for computer science students, which including the 
 #### - [Dynamic Programming and Stochastic Models](https://github.com/cs-MohamedAyman/Technical-Tutorials/tree/master/Operation-Research/README.md) Tutorials
 #### - [Reinforcement Learning and Game Theory](https://github.com/cs-MohamedAyman/Technical-Tutorials/tree/master/Operation-Research/README.md) Tutorials
 #### - [Systems Project Management](https://github.com/cs-MohamedAyman/Technical-Tutorials/tree/master/Operation-Research/README.md) Tutorials
-
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/bioinformatics-department.jpg">
-
-## [`Bioinformatics`](https://github.com/cs-MohamedAyman/Technical-Tutorials/tree/master/Bioinformatics/README.md) Tutorials
-Bioinformatics Tutorials for computer science students, which including the following main topics:
-
-coming soon ...
