@@ -56,9 +56,9 @@ Bioinformatics Tutorials for computer science students, which including the foll
 
 #### - [Fundamentals of Bioinformatics](https://github.com/cs-MohamedAyman/Technical-Tutorials/tree/master/Bioinformatics/README.md) Tutorials
 #### - [Computational Drug Development](https://github.com/cs-MohamedAyman/Technical-Tutorials/tree/master/Bioinformatics/README.md) Tutorials
-#### - [Data Science in Healthcare](https://github.com/cs-MohamedAyman/Technical-Tutorials/tree/master/Bioinformatics/README.md) Tutorials
-#### - [Data Analysis and Visualization in Healthcare](https://github.com/cs-MohamedAyman/Technical-Tutorials/tree/master/Bioinformatics/README.md) Tutorials
 #### - [Artificial Intelligence in Healthcare](https://github.com/cs-MohamedAyman/Technical-Tutorials/tree/master/Bioinformatics/README.md) Tutorials
+#### - [Data Science in Healthcare](https://github.com/cs-MohamedAyman/Technical-Tutorials/tree/master/Bioinformatics/README.md) Tutorials
+#### - [Software Engineering in Healthcare](https://github.com/cs-MohamedAyman/Technical-Tutorials/tree/master/Bioinformatics/README.md) Tutorials
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/operation-research-department.jpg">
 
